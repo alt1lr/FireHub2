@@ -1,9 +1,813 @@
--- Another?, Stealer
--- Kiddo Stop Trying
+local message = Instance.new("Message",workspace) 
 
-_, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
+message.Text = "Loading." 
 
+wait(1) 
 
-,nil,nil;(function() _msec=(function(o,h,l)local q=h[(-#{{},(function()return#{('hMPfKl'):find("\80")}>0 and 1 or 0 end),124;'nil','}'}+20)];local A=l[o[(-#'ambatakum'+(1388-0x2cd))]][o[(1544-0x310)]];local i=(89-0x55)/((0x70-(0x133-215))+-0x12)local f=(-#"ur mom is hot"+((-#[[fun fact if you want to say discord just type Discord with a capital D boom]]+((0x2f+-125)+0x387))/50))-(0x30-47)local g=l[o[(0x12b+-101)]][o[(-#[[impulse loves moonsex]]+(((0x13c52-40526)+-#'33 cocks in my mouth')/0x98))]];local D=(71-(-32+(145+-0x2b)))+(27+-0x19)local B=l[o[((-40+0x263)+-#'ambatakum')]][o[(-#[[mf stfu]]+(1777-0x3b0))]]local b=(80-0x4e)-((-0x5b80/(4224/0x16))+0x7b)local K=((-0x53+(-#{",",30,1,(function()return#{('mPkBpm'):find("\107")}>0 and 1 or 0 end);{},{};{}}+526))/218)local P=(-0x73+(((0x334-(75768/0xa4))+-#'Big black men')-0xe4))local M=((-#{65,'nil';","}+50)-0x2d)local m=(-#{'}';",",88;(function()return{','}end)()}+6)local n=(9+-#{'nil',169,1;",";",",'}';{}})local p=((-#{",";(function()return#{('FHkkhk'):find("\107")}>0 and 1 or 0 end),32}+76)+-0x47)local H=(-91+((-#{1;169,{};'nil';(function()return#{('khbHpp'):find("\98")}>0 and 1 or 0 end),{},'nil'}+227)+-0x7e))local F=(-#[[free bobux no skem]]+(0x45-(128-((0x125-157)+-56))))local d=(6+-#{(function()return{','}end)(),(function()return#{('PPOmLK'):find("\79")}>0 and 1 or 0 end);'}'})local a=(135/(52+-#{1;{},'nil';(function()return{','}end)();85;",",{}}))local r=((94+(-95-(-3724/0xc4)))/6)local L=(0x3a+(-#"i bought a boost for this string"+(-26-(-39+(160-0x7c)))))local t=((1525/(((-48+((20178/0x72)+-#"get some bitches"))+-39)+-#"i love minors"))+-#[[this is a meme string]])local s=(((0x15d82/(-#'Me be like at 5am in the morning'+(0x33cc/102)))+-0x29)/0xda)local w=(7+-#{'}';'}';'}'})local U=(-#"cilertedcool"+((((((-0x310d+6268)+-#[[Fucking losed 027728272728271]])/0xea)+-#[[Luraph v13 has been released changed absolutely fucking nothing]])-5)+111))local x=(-#{1;'nil',(function()return{','}end)()}+7)local c=(0x3f+((-0x1925/(164+-#{",";1,{};{},",",'nil',1}))+-#'free bobux no skem'))local R=o[(-#{'}';",",'nil'}+1332)];local j=l[o[(0x3ea6/81)]][o[(500+-#{{},(function()return{','}end)();(function()return{','}end)()})]];local I=l[(function(o)return type(o):sub(1,1)..'\101\116'end)('MpmbMHhf')..'\109\101'..('\116\97'or'PMMplkKh')..o[(-#[[mf stfu]]+(-113+0x2aa))]];local y=l[o[(-124+0x2ae)]][o[(2061-0x444)]];local S=(32+-0x1e)-(((-#[[Bwomp]]+((-#"ur mom is hot"+(19+-0x2d))+1518))/0x86)+-#'ambatakum')local C=(-#"i have found your porn folder i am now approaching your house at 83 miles per hour"+(193-(12644/((0x16f-216)+-#'how tf do i remove the meme strings'))))-(0x1c8/228)local z=l[o[(0x7c86/161)]][o[(-#{(function()return{','}end)();(function()return{','}end)(),84,'nil'}+315)]];local k=function(l,o)return l..o end local N=(-#'papier ist ein kleiner schwanz lutscher'+(0x8b-96))*((((0x20-46)+-84)+0xa4)+-#"if syn then syn dot request get beliveri12 coma nicuse ass end")local V=l[o[(0x920-1212)]];local e=(-52+0x36)*(((0x92a0/(0x597c/166))+-#[[Show me your meme stealing license]])+-0x6e)local v=(0x7800/30)*((((0x124e6-37542)/0xf0)-0x88)+-#'jtoh is cringe ngl')local W=(147+((-88+((205-0x97)+-#'Wenomechainsama Tumajarbisaun Wifenlooof Eselifterbraun'))+-#[[Ur mom]]))local _=(((0x1e06/((-0x18+338)-188))+-0x37)+-#'nerd')*(0x192/201)local u=l[o[(0x3e388/246)]]or l[o[(1151-0x24d)]][o[(0x3e388/246)]];local O=((((-#'Impulse real 2022'+(0x15f74/166))+-109)+-#'brawl stars hard gay porn shelly nsked minecraft gay porn roblox rule34 hot')+-85)local o=l[o[((0x11a68/(62+-#{'nil';'}';23;'nil',(function()return{','}end)(),(function()return#{('BMMFmH'):find("\77")}>0 and 1 or 0 end)}))+-#'big niggers sucking cock')]];local y=(function(k)local O,h=1,0x10 local l={j={},v={}}local e=-b local o=h+f while true do l[k:sub(o,(function()o=O+o return o-f end)())]=(function()e=e+b return e end)()if e==(N-b)then e=""h=S break end end local e=#k while o<e+f do l.v[h]=k:sub(o,(function()o=O+o return o-f end)())h=h+b if h%i==S then h=C y(l.j,(z((l[l.v[C]]*N)+l[l.v[b]])))end end return B(l.j)end)("..:::MoonSec::..bBfFlLkKoOpPhHmMpFOFfmhOoOboOpFLHbhfkKbHpKlpmfKfbHpKFbKMBlpMlpFfmMoOfBPkkLmffkPHLoMFbfOfFBhlmMOHFbhPkkMLlfOBhOmlFkoFppboKmbMpplLhKfBkhoKHLBmLmoHhFbBLfOBflPMLploMLOMBOhlkPbOOKfoobbFOmFOllHbKHBOpLFHHMKMHpppLBmplKfLpMkbPFOlbLoofKHBObbkHfbfOffHhopkkKbHOHlOhMKFBFpFFMmBFbHpKLBbpPlkmBBhfFFHffPLLbmPhoObfbHbFObkOpFfmMMHOlfMhppHkLMhOpfFKBbKpfFHBPHMKHfbPfbFBlpmlOmlKMBpMLMkOPMloofFPmPMkkMmOKBKpKFHBHhPkLbbOPFkHBOhpHOPpoFMHpKLMLLpOHHBKmBPPflHmokhhfbplLOfOBfLhbLPLmbLpbFKOhfhhKLOHLkOblOMlBKPhkMlfMKlPoopBopHlomFMkoOBKPbLkMBoLPMLkMBohbHKfpHmMoKfMhOklMMbpfOHPkPbkpBooFhHFKBbHPLlbmoKLfBpmBholBPPkLBFomhooFBHMoHfKhfLHMoOFlmkMOfKlbBOhFKFOhmKLboPBFmmfofbMKllomMopfBbfmmofBHPolhOmmbBPLooBhbffFBhkkBMhKoHkfFLlOHhoLmmFkMbppLpllmHhFBBLPpbfmLKOfLPPLLmOOffHLMMOoPfkhBHFkkblOoFPHFLMMhOOmhKpbLpbFPPoBPLhomhKbllpKMOhbKFhkHPpmPfHkoKBfpPhLKMfMloOFbhFkhMOOHFHhpPLpbFkHBkhlpbppflPmKkpPFllHMKpbOLkpLHHmKLkOBhHblFMbkhlLOMloMFFKlPLmFfhkplFKkbfOHFohkBmkbOOhkblfmKohBbfBKKbppmKfMKBoOBmPOLlHPFpkmkFhofOlKFohKkfMHofmpBklMOHHbbkBmKMOPHofbPlBLHoombKkoffmfMFmOmmoLfbPPOmLkmHoPBlklMoOFfmBMhOkfbmpllfOmOKPbFhHKKflmbhpKfFmMKOBHPmfHmBoOBpPHLBMOBKhbLoMFomFKkpPobHpbFbhPkkkHbBOoFkHfKpBkPfFpmoofollMmbKPBkPbmhFhkpplMffPLpOkHmlokHMLObfPpPBbLfKMhoPfBmkPPOMLFLkOpoHkhmFfoPHlbFfOMbKHBoPFOhlmMPOFfOhFkFMpohFLpklpmBKPppkPMmOOFlBoHoKoBlOhllHlKBkLlmHHKoBFbfPPlHmkoBBphfFbMhokfphPPbOffohFLmlBbFOHfMHmHppfFkHBkhbpLfoHhOMhFkoFKFmlKpBLPbLPophlbPlKFlMBoofFPmhbLLMhoMHokLMPOkFBBfHkKlbbOHKKKlbOplFMmHfpklOKHobHpOBKPflHmooFBmHBOllpOffLhbLPlOMlOmfhHbllbHOhmPkMblOMFpHofbLPohhkBLmlBKpHlomFhPooffPlkFHMPpLlmMopfLhbpPOhOhpFfmhOklmBFhKpPmMkFHKkPomHBMFppfHPBpLOLkkHLpmLobBPMmhkLOmoObfhhBLKmbOoFFHFlpMkpfFMPobLOhFKHfPbkOBkpkmhKpbMpplLFfmboFfbhblhBHffPoLFmmkMHKbflpKmfpFlhkkBMhHOpBFBmBlObHpPFKHlplpmlbHPKkKlBlpoLlHmKPfKPFLPlPfoPpLLMbhmomffhmLoMLpBfHHLkFOHFlhMkpMolpOKPmoLBhpKlfHHkPhOMffMKppHmffBBooHHMfBLhOOhfbBfphkLmMOOlFFobPllBpFFkHBkhMbLBOfhMMolBKfPbOHKmBLPblPFkmfomfPHOmHoofFPmLOMloMfpKpkoMPOkFBBlHPKkbHoolfmBKHKllOHpKLBbMmPPLFmfKoBLPffMMooKpHLHmMopfLFKPhkfMhOMFKhKkfMhbHmlkOblOMfpoohBbffMkOPkmFBmBkpOHKBmlmlfpPbOlLobpBmMfOmofPhfLHMoOLmoBMlhMlOmFLHbkPMplKOkhmLLBBpolFHmKPPkbllbphohBPPkLBfHmPokbfHbkKbbopbKhbkHMHbbHLkkbBOhKHFPHMkHMkpFlPmpKlBhpOmFKPBkPBOolhmOlPPPLFmmoOkPflhmmbOkfPhkkBFHblpBlfHkKKpollHlkMbpmkplloHMKMMmphlMmhohBoMfMbolBMPplOOkmLBHfKObHLFHfHhokFMmOOkhLmppPppFFPHkKBLBMpOfMpokBFpmlOhHfmkhpHmoHbFhoOHKBFLFoKhkMlhFMHOlfMhpkhpfmpBmBPKlbKpfFHPPBLLhOohpbLlFoKfMLLmkoBBhfbhLLOmPoMfHhhkObBoMPbKBMPOkFBBmhhKfbOpBFkhMKHbOpFfHmOKMBHpKlomBpOhFlHmooFbmLPpOmLfLLOOohkPmfhKPPLbFFFKopKMBppbhOMFpHLobPmHfbHkfPBhFBHfpmMKmBOPlOoLoMPoMfkPPllMBOOFohfkpbofmhOklMMOpFLHopPFmpPFhHKKfbbLHokHFBBFmoKOobfFfbKPmLBmhoKbokHpompbLLKplhPBkpbFbhPkkklblOhFLHokPblpplLHOoBfpLLmbKPBkplMfFKkOoMmhfHLmOKHkbhlkOLhkbolFbHMMOKFfhHpOLFmKmmHhkMbppLpfllmpFMbmPMLBmMPFmflmmOolFBLHpMmKBKkbOlhLHObplkhKboFPkhobhbfmkpOomFHBLboKOhHlBbloKMhBMHFPKfPlmKBOpkpoHoBolMoBMMBblbobPKMoFFhpkLbbbPOKlFmbLOppFHHoKFLbBopoLohBomffPplfoOBhPKLfHHfpKoPlHlfokKOLOLkPMPOkFBBoHkkLMmplfFHpkpBHpllhpFBlpPlkmBmFKoBMPfLmohBmPOLlFMMkokFOhbkoHopBFbfbbkOoFFhmmbkObBpfllHMKkmMoLlopplLmbKPBkPBMhMFPHMBoLfbPPFopKmfBmLLOboMkffmhOklMMOpFLMbpPMfppFhHKKfMBLPokhoblFpKKPHMfkPBHPkLBmhMkOLOKLHMFomfOPobOLbolPOKKkHbBOhFKBLHkKhbhPoFmmfpbPmlLmbKPkOBkhbFKMlokfLPlkbbfKlfbhhkOHFKBFohfkOMhBmHOkobFOmBPolhFMBfmKKolmhfLklpFpbObBHPFlmmOHkoofBPHklfmfOhBLhMKMFOHFBlmbPOOFlhMhPKLbOkplHHkkmbMPBlhmFokHHmlMOKMBpPLLlOLHPbKlMomPhhfFKKFKKmPBBlBobpkfLlkpbPObPMfpPFHHoKFkLBoPklpmHoLBBpmlPhbBhPKLfmHoofFHfOOoMOofphLkbmmFpoLPlMbFLlpPlmlOFbmplFMHphpLlBlPFBFbLBmPflHmokkhmbHFhLphlMlHFLhMkOBfhfkhkbFOoFFhmHhkhbbOmllmKFBPblBHhKKbkLFpfHpMLlBKPhfMKFffHolLKFpOkfKhfLHlFMhOBFlPlkPMPpmFLHHffpfFhHKKfkmlhLlHmKOBlOhMpFhKkplPHfhkKpFHpBLBlkfhKbbFkKpoPOoFbhPkkkMbBpmLfKobopFFmhHBpkOpBhbBKlfoHhOMpFLFKflPoLFmmmHoHFfPHklbfoMBbkkMhOKFfmBbplKoHhfpLKLbppLlbPmfkLMOmHHHpMHBHPFlmmOKOplbLlLlkfLFbhBLhMKHhpbFKHBlfMmOKFmhmkpllFMHkKBbhOpMoFBkbmHPLlOmlKMbHLPpkPBBOLooKkfBfoHfohFlopOHMfbbmkmhMBLlBoOhoMkmmLmPLpfbLLMppOfbfLfoPofmmFPoOhLmLFOKopkHfkBMloMfpPlbMfkoKhPbbFokmFolbHFkmbOOlmMfMkBpoHOBPLkhkfHPflHmokLhbMmlfKphBMpFhKBpFhMfOLlOHHmBKllOBhbbLFkooHkKkbPpklBfhmFKFfkpHLLFHBHPllMmpoohOMmlPOlOBfKhfLHlPMkOHFPhOMFOmFLHbkPlmbkOHFPKfbHpolFHmKOBlOMoOPkopBPPkLBMoFKkLplmMfhkkOOHpbMpMOHFbhPkklOBBplFFHPKKbhpfmHKpbMpplLHFfLKfOOpBmbfkfFPoLFmmKOhkBFlfoKhOLbhmkBMhOKKLfmHlkMbbOpFKHpPMpmlbHPKkLmbHpmLbmkohfoPflmPBoFmFKfOfBopkKPOPFoOpfHhokFmflMooPFbfFFKLPbMFKLbhpKlfMlBpLmpLLhmPKMBpPLOFLpMookbFhhLPBmFfhFLmMOHPOlFmPokLbHphFphMkhbklkHoKFbmmPPFlFMFLPBMPHlOmkPMPmLfmHookPFfhHklHkoMFOmoMMOkFBhhPBKLbhpkohkMbOpllBBkKLBbpPlpmBKhBKhlLmmooFBmmkLlmMopfLhbLPMkOBfhhKkfMHOoFFhmkpblOMFpHLKbBHpklBHHKKFopHlomFObBOPlLbmpbOfbPPLkBKohfKhFLHbBOFfMhOmfMMOmooHbkPbkppFhHoKfbHhklFHmKOBLpMlpmLofLKPkLfmhoKffPHLobLhkfOhLLMLPOLFbhPkkfPOhFoHfkHbopFFmmPOpbMphlLfmKPBkPBlmfFoffbPoLpmmoOflPMppMLOlfPhKkBMhOKFfhHkoboOmFhHlkMbpPKlbHPKhBBlplKmfKHBoPFlmmmolfBPpLKMbOBfkhBkbMKHkfHhOkFbFOOFoffkpbLpbKMHkKfbhpKOlHHKHBFPBlOmlKMfhmKLbMBokPbPhLKMfpHLKhFklMOOpfMblkLbbHfFkHkkhbOpfFMHoKOklpOloHMPmBLPBlPmPoBfbbpLfmHookKPmLpMloMKhhLkLMPOOFBhhkKBlhMFoHOkmOoplFMHpOLFMpPlhmBofBKHLlHmoPpBmPmLlMBopfKhbkBlhOBFbhKpkMHOOFFHFkOboMfFpHLKblMpklfHhKKklpHlHmFoBBOPllMmhhBfbhBLkMKohfKhfLHfMOFFFhOkkMMOhFLHkplbkpkFhMHKfbmpollHmKHkKpMlpmLpkBPPKLBMbHpffPHLoFkomfphlLMlhOLFLhPkObBOhFKmlpBbopOFmBbKlbMppLKmbKPBHPBOFmKofBHhpLFmmOBflHLLpMLObfPhkkBbFOKFOhHKbbFplFOHlKkbpHFlbHhKkBfphlPFLKHBoPFKhmOoLBMhhKPMbOffkBfLhMKOffHBLkFblOOFphMKBbLpkLoHkKKbhHOlfHmKoBFpmlHFKKMBpPLofmPoKfBhbppMfoHfoMkLmMpOllBMhkLbkOPlOHBkhbKpfKlHoKobmpPllmBKpBPbklPmpoBkbPKLFmHoHfFhfphMloMfpbOkbMhOkFBBmkKbKOHFPHFkmbOPkKBHpKPBbmflkmBKhFKmBlHmmoFflPOmmmMopLhhbkbMkOFfhhOkfbFmmFFHfkOloOMFPHLKLbPppOlHhKKBfMBlomlKmBObklMmMoLfFPPLkMBOmfphfkFMohpfmhOklBMOpFLHkkPbhpBoPHKKfbHpoloHmKPBlPBlpmLobBPPpLBMBoKffPHLhMFomfOhlpFMpOkFbhPhlbBpbFKHfkHbopFFmbFKlBFpplkmbKPBkPKoLmKokBHMMLFmMoOfLPMLmloObfPhkpoMhOoFfHBPPbFOmFOfFkMbPpLKbbKKkBkphppmfblBohLokmOoOBMllLLMboPfkHMLhMKOffmhokFMmpPkkhMkMbLHlFPHkKBBfhflfmFKoBlpmlpmlobBpPLLPmPokfBPmLKMfoHfobOLmMmOlFBhpkkbbOMoOHBkhbKmhFHHOKFfbHPllmlKpKBPblPmkpBfpPKLKmHoHfFhFLObkoMfphhkbLMOkFBhhkKbfOHFHHFKLbOpkFMmhKLBbPBlkfOKhBKPfkHmooFflPOLpmMPLfLHfLPMkOofhmkkfMHOoFFhmkObpOMFhHLKfbPpoKHHhKmBfPflomFKmfOhKlMMboLPkPPLHMBphfKhfklMoOofmLHklBBOpFLHOkPkHpBFhHKKfbHpolHHmKOBlPllpBLobBPhbLBkFoKFHPHooMFomFFhlpMMpHPFbMPkkbBpkFKKKkHlbpFlmHOKlBOpppfmboBBkmBlhmKohBHfPLFoBoOflPMLpMhObFLhkkfMhpOklhHkMbFllFOHlkMBhmmlbmFKkfpphlKmfKHBoPFLLmOokBMPPLLbfoPfkhoLhLFOffHhooFMmOOFPhMKBbLpLFPmoKBbhPblflBKoBFpmlOmlKMfBPLLOmPoofBhmLKMfOLfobPLmMOOllMhpkLboOPFmHBOKbKPlFHHoKhbmhollHMKpBLPblPmmoBBmPKLlmHopLMPmkfMlOBfphLkbbPPmFBHlkKOoOHlBHFombOplloHpKhBbFMlkMFKhBKPHlHlMoFBmPOLlmMopFBhbLPMkOkfhMKkfMHplFFlLkOKBOMkpHLKbBKpkOBHhbhBfHHlomFopBOLOlMkpoLFbPPLkMHoholhfkLMohFfmhOKbMMbHFLkFkPbkpBFhmbKfBOpollHmoPBlpMLFmLfkBPPkLBMmoKffhKLobhomfOhlLMMpOLFOhPkobBOHFKmlkHbophFmFLKlbMppkLmbKPBMPBLLmKoKBHhpLFmmOlflfFLpMLObfPhkkBbLOKFHhHkpbFPmFOHlKobppmlbkMKkfFphlKmHKHKMPFlmmOolBMPpkBMboPfkhlLhfKOffHHlkFKLOOOlhMOpbLpblKHkhBbhbflfbHKoBFPplOMLKMolPLLbmPokfpPhkFMfomfoHLLmMOOHfMlpkLbbOPloHBkhBbpfmfHoKFbmPPllHMoFBLMolPmkoBFhPKLfMkoofhPmolMlpBfphLkpMPBKFBhhkKbfOHFoHhkmbPpllBHpoKBbpPLbmBhlBKPflHbooFBmhFLlMOopLbhbkHMkOBFKhKpFMHOoFFhmkOblpOFpHKKbbHpkLFHhKKBHpHObmFKmBOHllMmpObfbhkLkBhohFOhfLHblOFLbhOklMMOpFLHbKkbkpFFhHOKfBMpolFmpKOLhpMlpmLpbBPPkLHmhOFffmoLobLomfOHBLMLfOLFbhPkkbBOhlFHfkMbopLFmmPKlbMPKlLfoKPBkPBkhmKoffpPokbmmPlflHBLpMLOmfPbKkBMhOKFfhHkoBbOmFPHlKBbpPKlbHPolBBMllKmfKHFoPFlmMKolfHPpobMbOHfkhBkPMKPlfHhokFMmOOFlHHkpbKpbFHHkoFbhpKLBHHhbBFpmlOblKMBphlLbMpoklhPhkOMfoHFohFobMOOlfMhpkLbbppFkHFkhbOpflMHoKFBmpOohHMKpBLHblPmkOBBhhKLfBoooFLPmLObLoMlhhLkbMPOkFBhhKKbfOMFoHLkmBPplFMmPKLLopPlkmBOhBKPfLmmoOlBmmlLlbBopfLHfLPBoOBfhhKkfMHOollhmkPblpBFpmKKbbPPolBflKKBfpHkomFKmfPPlkBmpPbfbhHLkMBOMfKmlLHMoOFfmhOklBBOpFKHbkHbkPFFhHKoLbHMblFHmKOFlpMlpMoobfmPkKhmhOOffPHkhMFPbfOhlLMMpOLFbHmkkbFOhFOHfKMbopFLfHOPhbMpplLbbKPBkhLlhMPofloPokLmmoOFOPMKhMLObfPhkkBMhpPFfhMkobLOmlPHlkMBMpLooHPKkBBhhlKmfOfBoholmBlolFBPpLLbkoPlohBLhMKOffHhoKoMmOPFlHBkpBKpbFPmhKBLlpKlfHHOoBFpmLMmlOLBpmbLbMHphfBHFLKBloHfohFLmLoOllLhpkKbbOHFkmFkhbKPOFHfbKFbmpOklHMKpfhPbkfmkphBhhOLfmHpbfFmbLOMloMfphLkbBfOkFFhhkObfpMFoHFokbOmhFMHpKLFbpPlkMOKhfMPfKomoOLBmPOkHmMphfLhbLPMkOBfhHMkfMMOoFLhmKPblOMLFHLPobPpklBMhKKBfhkloMhKmllPlkBmpoLFpPPKoMBohfKhfLHMophfmhPklbBOplKHbkPfbpBolHKKfbHholFHmOFBlhOlpBbobfHPkLBbKoKllPHLoMFomfOhlKOMpOKFbhHkkBFOhFKmHkHLbpFFmHOOlbMppkbmbOkBkHhlhMOofBHHlLFBboOflPMLpMLOblkhkkFMhOOFfHMkobFPpFOBhkMbppLkbHPKkfHphkFmfpoBohLlmmOpBBMHhLLMboPfkhBLhBFOffMhokLMmpPFlhMoKbLmoFPHkKBfhpKlfMpKoFbpmKlmlOBBpPLkmmPpofBPhLKMfoHfombLmMPOlFBhpKKbbOPLlHBPlbKpfFHMoKFbmhKllMHKplbPbLHmkoBFPPKKlmHoofFPmLOMlpHfphKkbMHOklFhhkKfBOHobHFkmbOhlFMHpOlBbhplkbhKhfOPflHbooFLMPOLlmMopfLhbKpMkOFfhhOkfbMOoFFmmkOlhOMFpHLObbPpkkBHhOKBfHoloMLKmBOHLlMbhoLfbPPLkMBohlKhfLMMoOLfmHPklMMPPFLBokPbkpBLhHKKffmpoklHmplBlhBlpmLpfBPHoLBmhoKffPHLoBlomfPhlkBMppKFbhPoobBmlFKHfkHfopFFmMPKlFBppKbmboHBkPBkMmKplBHPoLFmmoOflmBLpMKObfHhkKFMhOKLLhHPbbFOmFOMlkMbpholbMmKkFhphLOmfKHFhPFKbmOolBMPpLLMbpmfkhFLhMOOfFMhokFffOOKhhMkpbLhbFPHkOLbhhPlfboKofLpmlObOKMFhPLLbmPokfBPhKPMfoMfohLLmbPOlfMmMkLloOPFkHBohbKpfkfHoOobmHlllMBKpBLHklPbooBBhPKLfmHooloPmLPMlOBfpHKkbMPPhFBBlkKbfOHLoHFkmfMplkLHppbBbPHlkmBpFBKHllHmooFBmPOLlBLopfKhbLHMkpFfhhKoOMHmbFFhmkOflOMFpMhKbFfpkkhHhoOBfpHKbmFpbBOPllMmpoLfbmfLkMFohfOhfkMMoOFLkhOphMMOpFLMbkPbkhOFhMMKfFopoLLHmKOFHpMkhmLobBPPkLBmhpMffPMLoMLomFPhlLMfFOLKohPkkbBPhFKHfOkbohhFmblKlfBpplLbpKPFoPBlhmKofBHPoKhmmoPflhBLpbKObfPMbkBllOKFfhHoobFOmkFHlOObpHblbmHKkBBHKlKblKHBoPFlmfbollOPpLKMboHfkHFoOMKPHfHBbkFMmOOLlhMkpFbpbkkHkOhbhPOlfHHplBFHblOmlKMBpPLLbBkokfFPhLOMfOMfohFopMOHhfMhpkLfbOPFkMHkhFFpfkoHooLbmpOKBHMPPBLPblPmkoBBhmFLfmMoofLPmkPMloMLKhLpoMPOkFBmhkKbfhpFobbkmFlplLBHpKLFmpPkomBKhBKPflHmoPbBmPPLlMBopFKhbLPflOBKlhKkfMHPoFFhmOKblhHFpbbKbBHpklBbPKKFlpHlomFKmBOPlKHmpoKfbPHLkbFohfKMBLHlbOFfmhOolMMOpklHbOpbkhhFhmOKfbHHolFbbKOBlpMlpmLoblpPkLFmhoOffhMLoMFPmfObhLMMpOLLbhPkkFBOhkKHfOoboPLFmHOpLbMhhlLmbKPBkPBlhBKofBMPoLLmmOPflPMoPMLHofPhkkBBhOKFfMmkoFlOmklHloBbppLKfHPOoBBphlKmfKHBomllmmPolfBPpkKMboPLohBplMKOffHmokFMmhPFlbBkpFbpblHHkKBFMpKklHHKoBFpmlOmlPBBpPKLbmHokFFPhLKfLoHKbhFLmMOPlfMhpOobbhmFkMhkhBOpfFHbhKFFbpOllHMKpBLPbKmmkoFBhPOLfMMoofFMfLOFhoMfphLobMPOkkLhhOPbfhoFomLkmbOHOFMMhKLBbpPlkmBKhlPPflMmooLBmhPLlmMPMfLboLPMkOBlhhKkfFfOokohmOlblPBFpHLpkbPholBHhKKBfpHloBoKmBPPlLBmpOKfbPPohMBHlfKhfLHBoOFfmMMklFLOpkbHbKHbkpBKFHKOlbHpolFHmKOBlmLlpmKobBHPkkFmhoKLOPHpbMFomfOmlLMMphhFbbfkkfhOhlOHfkHlbpFkbHOKlbMpplLmbPfBkPFlhmOoffMPoLFfkoOkhPMLpMLPbfPhkOOMhhMFfMokoBLOmFObHkMfhpLlbHPKkBBphKMmfKMBoPLlmMPolBMMFLLlhoPfkhBKhMKOfkkhoOhMmBhFlHMkpbLpOFPKKKBlLpKLfHHKoBHpmmpmlooBphKLbmPPMfBlhLKMfoHlohFLmFfOlkohpObbbpHFkHBpkbKMPFHHoKFfbpOllBpKpkmPblPmkOFBhPKommHmBfFPmLOMloMfpMmkbFKOkFFhhKKbfOHlfHFpPbOHHFMmhKLBbmllkKBKhBKPfkHmooFLKPOoHmMPLfLHfLPMkhPfhklkfMHOolLhmkOFMOMHKHLKbbPPolBHhPFBflplomFKmBOPllMfFoLLhPPLoMBOhfKhfkKMobHfmbfklBBOpFLbOkPOKpBFhHKOfbHpoKhHmPfBlHplpMKobBPMbLBMLoKffPHkpMFomklhlpOMpOLFbHHkkbBHoFKmBkHbopFFmHOKlloppoBmbKHBkhBLFmKohBHlMLFfKoOFkmkLpfmObPhhkkBMhPKFfhHpBbFHKFOMMkMBhpLlbBLKkBmphlKmfoMBoPFoOmOOFBMPpLLbfoPfkMHLhblOffHhokFMmOOkHhMpkbLpfFPmkKBbhPBlfffKolhpmKOmlKMflPLkhmPbmfBmhLKMfOKfoFoLmoBOlFMhpkLbhOPHKHBKkbKPlFHHophbmFOllHMKpFLPblPBMoBLLPKKHmHOpfFPmOFMlmofphLkbbHOkFBbKkKLPOHFoHFobbOplKPHphmBbpPlkmBKhBKmPlHfloFfbPOklmMopFBhbOoMkhpfhMKkfMHplFFkkkOlmOMlhHLKbllpkHfHhKKBfhHlomFPKBOmHlMBLoLFfPPLkfPohhPhfLHMopLfmhOOMMMmlFLHbkPBopBFhBFKfFlpolFHmoPBlpMoKmLhpBPPkLBmhoKffMkLoFbomfPhlkMMpOLFhhPMHbBHLFKmlkHboHhFmkpKlbMppkLmbKPlMPBoLmKpHBHhpLFmmhFflMPLpMLObFHhkkBFKOKKhhHkobFPbFOHlpPbpPllbHPKkBBphlKBPKHLlPFLbmOOlBMPpkBMbHbfkMpLhbOOffHbBkFbmOOFlhMopbLpbKlHkppbhPhlfMHKoBFmKlOBHKMFmPLkbmPokfHPhkhMfhkfoHLLmMOhHfMHpkLbbOPLkHBkhlbpfKkHoHobmhOllHMPFBLmOlPokoBfhPKLfMOooooPmOfMlPMfphLkhMPmkFBMpkKFfOHFoHMkmoMplhKHppLBbpPLfmBobBKfklHBooFBmhLLlKhoppHhbkPMkOBFKhKbFMHpfFFmbkOblHoFpkLKbbPpkkBHhKKlPpHoBmFpOBOhklMmpPMfbBlLkMBohFOhfLHFFOFoKhOklMMphFLHbpKbkMpFhHKKfbHpolFBKKOLbpMlhmLObBPPkLhmhhlffMkLofFomfOhMLMOfOLKphPKobBOhKbHfMmbopFFmMOKlbMmFlLBOKPlBPBLmmKofLKPoLhmmoOflHBLpMLhPfPBbkBMhOKllhHkoFMOmpPHlkMbppLlbHPpMBBmolKmlKHfoPFlmMlolPkPpomMbOHfkhBOLMKfFfHhokFBmOOFlbokpFmpbkkHkoFbhpKKhHHoLBFpmlOMkKMBpMbLbFLokfBPhkOMfoHklhFkHMOOlfMhpkLbbHlFkbHkhbOpflHHoKFBOpOoOHMPFBLhflPmkPpBhhKLfmHoolFPmLOfHoMkFhLKLMPPkFBhhpbbfHkFoMKkmBOplFMmLKLfLpPKMmBomBKPfokmoOFBmPOLlbMopfLMOLPfMOBOBhKofMHOokhhmpfblFMFpmLKbbPPBlBlBKKlPpHKomFKmflPlOMmpppfbmPLkMBOKfKloLHobOFLmhOklbpOpFOHbHMbkHBFhHKKHbHFLlFkkKOFlHmlpBmobfkPkHhmhpKlLPHOBMFhKfOMKLMbbPbFbbkkkblOhFoHfKbbopFlOHOKlbMPklLmbKPBkPhlhmKoffpPoLFmmoOfMPMLpMLOpfPhkkBMhpPFfbkkoFmOmFpHlkMfopLlbHPKKBBphlKmfoLBoPFlmMBolBMPpBPMboPfkhBLhMKofkhbokFMmOOFlBOkHbLpbFPmOfKLbHklkHHKoBFPBMffKKlMlPOLbmPokfFKkpHHpFBfmhFLmMOpKmlBmLBOfhKKKHHkhbKpffKoMPPMllfKLpPhFfllbKHhLpLBhPKLfmHoofFfmOOBLoMfphLKffHOkFlhhkmbfOHFoHFPPbOpKFMHHKLBBpPlhMmKhBpPfLlmoolBmPOLlMFHHfLhbLPMHOBfHhKKlfMOoFkhmKbblOMFpHLPHbPpOlBHMKKBFpHloMbKmBhPlLBmpoLfbhHKhMBoMfKhFLHMoOFlbHMklbFOpFKHbkPbkPFFhHKKKbHpOlFHmKOBlpMlpmPobBPPkLBmhOOffPHLMMFoMfOhlLMMmOLFbHbkkBmOhFoHfkHLppFlKHOKobMpplLMfhhBkPPlhmHofBHPoKFmmoOfmPMklMLOlfPmkkBMhpfFfhHkobkOmFOHlkMBKpLloHPKkBBphlKmfoPBoPPlmmOolBMPpLLMPoPFlhBLmMKPffHhokmMmplFlHlkpbLpbFPmBKBbmpKllHHKoBFpmLlmlopBpPoLbbPokfBhKLKMHoHFbhFLmMOOlFOhpkKbbOHFkHBkhbKpkFHmBKFBopOllHMKpBmPblmmkoFBhHKLfmHoPfFhKLOMhoMfmbLkbbbOkFmhhkobfpMkpHFKFbOpPFMHpKLBbpMlkmkKhBoPfLBmooFfPPOLomMohfLhbLPMkpMfhhKkfMmOoFFhmkhblOMFpHLKBbPpklBfMKhBfpHloMFFBklpLmKmmoLfbPPkofFohfKhfLmMoOFfmhOOKMMOPFLHbkPbkpBFhBHKfbHpolLHmKpBlpMkomLobBPPKLBmhoKffPHLoMFomfPhlLMMpoBlPhPkkbBplmhfokbOMpfHFbMobhBbKFFKPPpmommkFOMpFbpLHoOphBolboPOMbOOhfPhkkBbMFHooPFMoFBKlpfmPBOkkOlllHPKkBBPmKOmfKmBoPLlmmOolFBmbLLMfoPfKhBLhMKOfKFhoklMmOPFlHbkpbLPmFPHkKBbHpKlfHHKOBFpmlOmlooBpPLLbBpObfBPhLKMmFHkPppMLFfkhOMmbBLoBOhPkHokhbKpfFFofhoMpfMKLppPPBOPblPmkooPmbkFpMooMfFPmLOHhllobPohPfLKbhhbmkKbfOHlboohlMhFPFmkMpPfpLLpKOpbMlHOlhlbHFkoLPMmHFkkFpPmkfoLLOpHhHflFoPhLhFFBKoPhPLfhkmkKPpBOLmoHphBLFmlLoLPHMPKLpLmOfpfKokPLmHfhKBpLhplLKopMhOkMBlOpFLHbLBKoMLMflFkKHLbLhHPmMfhHbHkKoKbfFmLmKFMBBMmphBLoMFomFHkpPOMBpKFbhPkkbBhMFKHfkHbopFFmHOOlFmpplLmbKPBkPplhbHhlBHPoLFMFoOfLPMkfMLOlKmhkkBMhOhFfhmkobKMBFOHlkMBPpLlBHPKkllphlKmfKmBoPFlmBOObBMPpLLMFoPfohBLhMKOffHhokLMmOOFlMMkpbLpbFPHOKBBFpKLlHHKoBFpmlpmlKMBphKLbmPoKfBhbLKMfoHlohFLmMpOlFbhpkpbbpHFkHBkMbKpoFHHoKFbmpOllmFKpBkPblPmkoBBhPKLFmHohfFPmLOMloMfphLkbMPOkFFhhkKbfOHFoHFkMbOpLFMHpOFBbpPlkmfKhBKPflHmooFBmPOLkmMopfLfhLPMkOBfhhKkfMHOoOoHFkOblOMlpKOPFMpFkLMHhKKBfPMkmmFobBOPLlMmpoLFfmBLkMlohfohfLHMopLkbhOkoMMOhFLHbkPbhPhFhHhKfbHpollHmKHBlpMLLmLobBPPoLBmhoKffhoLoMFomfOhlLMMpOLFPhPkkbBOMFKHfkHbopmFmHOKlBbpplLmbKPLhPBLbmKolBHPOLFMlHFflPMLpbMObfhhkkfMhOPoLhHkobFPoFOHLkMBbHPlbHPKkBMphlomfKmBoPKpBmOolBMhoLLMBoPfpBlLhMKOflKhoklMmOMkphMkPbLPBFPHKKBbhpKlkFbKoBFpmLpmlobBpPOpFmPokfBHkLKMFoHfohhLmMHOlFBhpkobbOPFMHBKBbKpLFHHpKFBlHMllmFKpfPPblhmkokBhPPpLmHoofFHlLOMLoMfmBokbMPOklPhhkobfOHlBHFKfbOpkFMHHKLBbPllkmkKhBpPflMmooOLlPOLomMpLfLhBLPMPOBFbBpkfMHOolmhmkpblOMOoHLKlbPpklBHhKKBfHKlomKKmBpPllMmpoLfHPPLpMBomfKhfLHMoPBfmhOklbbOpFLHbkHbKpBFhHKKfbHpolFmLKOBlpMlpBbobBPPkLfmhoKffPHLoMFomfOhlLMMpOLFbhPkkbBOhFKHfkHbopFFmHOKlbMpHlLmbKPBkPBlhmKofBHPoLFmmoOflPMLpMLOffPhkkBMhOKFfhHkoblOmFOHlkMbppLlbHPKoBBphlKKlPFBoPFlmMBFOKLpHmhmMfbLhHkHFLpohhmbOlkkMpmPFflkhpkplBlLLopHFbMlfoLolmkBboBpPmpbLfpoPPHbfBpkHOKBBFHKlPMbkfolKPLpHfolkoKlfHBkhbKPLmFfmLOOmHKBploOBPMbhFpmpoBBhPKklBMooflPmLPMloMfpHKokMPOoFBhHkKbfOHFoBOkmbppllBHpKkBbpPklmBKhBKPFlHmooFBMPOLlmMopfLhbLPMkOffhhKkfMHPkFFhmkObLOMFpHLKbbPpklBHhKoBfpHloFkoFBOPllMMpfOkFppmkMOohfKhfLHffOFfMhOklMMOpFLmfOHbkpFFhHoKfbHpolOMOKOBKpMlpmLoBBPPoLBmhOfffPHLoMlomfOhlLMbLOLFbhPkkbBOhFKHfPFbopLFmHPKlBbpplLmHKPBKPBlmmKofBHPoKBmmoOflhbLpMLObfhhKkBMhOKFkhHkobFOFlLHlkMbpphmkFBLhplHMfbLHokhMBBlhMHoOBMPpLLMlFBkpPOmKobOhfHhokFbKlHofPLMpFOKOPKMbBMkoPFlfHHKoBhkfopHFbflfoKhkbkllKHphkoMfoHfoHLObMOOlfMhHkLbbOPFhbpkhbKpflpHoKlbmppllmFhHBLPblPMFoBBHPKklBMoofFPmLHMloMfphPKHMPOkFBHFkKbFOHFoHFKfLhplFMHpKhBbphlkmLhMBKPflHMLoFBMPOkkfBopfLhbLhMkOBfhhHKMMHOoFFHOkObLOMFpHLKlLmpklBHhofBfpmlomKHBBOPllMMKoLfBPPkofFohfKhfLMMoOFfmmOOFMMOpFLHbkPbKpBFhbpKfbmpollHmKOBlpMoBmLobBPPoLBmmoKffbPLoMFomfOhlLMMpOLlmhPkkbBOHFKHfkHbopFFmHOKl");local B=(-#{(function()return{','}end)(),'nil';{},",";(function()return#{('OfHMoM'):find("\72")}>0 and 1 or 0 end),11;(function()return#{('OfHMoM'):find("\72")}>0 and 1 or 0 end)}+108)local l=8 local h=b;local o={}o={[(112-0x6f)]=function()local k,b,o,f=g(y,h,h+D);h=h+_;l=(l+(B*_))%O;return(((f+l-(B)+e*(_*i))%e)*((i*v)^i))+(((o+l-(B*i)+e*(i^D))%O)*(e*O))+(((b+l-(B*D)+v)%O)*e)+((k+l-(B*_)+v)%O);end,[((-0x7+-60)+0x45)]=function(o,o,o)local o=g(y,h,h);h=h+f;l=(l+(B))%O;return((o+l-(B)+v)%e);end,[(-#[[holy shit]]+(0x35-41))]=function()local o,b=g(y,h,h+i);l=(l+(B*i))%O;h=h+i;return(((b+l-(B)+e*(i*_))%e)*O)+((o+l-(B*i)+O*(i^D))%e);end,[(0x61-93)]=function(l,o,h)if h then local o=(l/i^(o-b))%i^((h-f)-(o-b)+f);return o-o%b;else local o=i^(o-f);return(l%(o+o)>=o)and b or C;end;end,[(46+-0x29)]=function()local l=o[(25+-0x18)]();local h=o[(-72+0x49)]();local m=b;local k=(o[(0x39-53)](h,f,N+_)*(i^(N*i)))+l;local l=o[((-0x33+113)+-0x3a)](h,21,31);local o=((-b)^o[(264/0x42)](h,32));if(l==C)then if(k==S)then return o*C;else l=f;m=S;end;elseif(l==(e*(i^D))-f)then return(k==C)and(o*(f/S))or(o*(C/S));end;return A(o,l-((O*(_))-b))*(m+(k/(i^W)));end,[(100-0x5e)]=function(k,m,m)local m;if(not k)then k=o[(-#[[warboy hates you]]+(0x7d-108))]();if(k==C)then return'';end;end;m=j(y,h,h+k-b);h=h+k;local o=''for h=f,#m do o=R(o,z((g(j(m,h,h))+l)%O))l=(l+B)%e end return o;end}local function j(...)return{...},V('#',...)end local function y()local m={};local k={};local l={};local M={m,k,nil,l};local h={}local B=((0x8c45/241)+-#"me when they are is have the me when are is do me when")local l={[(0x2d3/241)]=(function(l)return not(#l==o[(0x16e/183)]())end),[(0x45+-69)]=(function(l)return o[((-41+(17472/0xd0))+-#"hol on leme chec ur seirc histori toll")]()end),[((0xb1-152)+-#'keno 0347 is a nerdy fag')]=(function(l)return o[(0x522/219)]()end),[(0x1ec/246)]=(function(l)local h=o[(-118+0x7c)]()local l=''local o=1 for b=1,#h do o=(o+B)%O l=R(l,z((g(h:sub(b,b))+o)%e))end return l end)};local e=o[(118-0x75)]()for b=1,e do local o=o[(-#[[i shoved a whole bag of jellibeans up my ass]]+(7636/0xa6))]();local e;local o=l[o%(-0x24+45)];h[b]=o and o({});end;for O=1,o[(0x4f-78)]()do local l=o[(-122+0x7c)]();if(o[(-0x35+57)](l,b,f)==S)then local M=o[(0x30c/195)](l,i,D);local e=o[(0x5a-86)](l,_,i+_);local l={o[((160-0x66)-55)](),o[(0x1d+-26)](),nil,nil};local k={[(0x29+-41)]=function()l[a]=o[(-#[[Deeznutsbutinlualoo]]+(-18+0x28))]();l[x]=o[(0x5d/31)]();end,[(0x60+(-6270/0x42))]=function()l[d]=o[((0x6e8/34)+-#'if found dad when back from milk then print yay end')]();end,[((-74+0x86)+-58)]=function()l[F]=o[(50-0x31)]()-(i^N)end,[((1920/0x78)+-#"ur mom is hot")]=function()l[F]=o[((0x3d-50)+-#'zykem krul')]()-(i^N)l[t]=o[(-#[[Deeznutsbutinlualoo]]+(0x49-51))]();end};k[M]();if(o[(-#"you can pull my IP but you cant pull any bitches fucking loner"+(0xe4-(0x1b8-278)))](e,f,b)==f)then l[K]=h[l[n]]end if(o[(-#'Lana Rhoades'+(2512/0x9d))](e,i,i)==b)then l[a]=h[l[H]]end if(o[(-0x16+26)](e,D,D)==f)then l[s]=h[l[c]]end m[O]=l;end end;M[3]=o[(85-((180+-0x45)+-#'number 15 you get no bitches'))]();for o=f,o[(((0xde-156)+-#'ambatakum')/0x39)]()do k[o-f]=y();end;return M;end;local function C(o,_,B)local S=o[i];local h=o[D];local l=o[b];return(function(...)local v=V('#',...)-f;local g={...};local y=j local O=h;local z={};local o=b o*=-1 local D=o;local h={};local e=l;local N={};local l=b;local S=S;for o=0,v do if(o>=O)then z[o-O]=g[o+f];else h[o]=g[o+b];end;end;local o=v-O+b local o;local O;while true do o=e[l];O=o[((1595/0x91)+-#"IP grabbed")];k=(1653057)while O<=(-100+(-#"10 black dicks in your mouth"+(-92+0x10b)))do k-= k k=(2058343)while(0x1254/204)>=O do k-= k k=(2306727)while O<=(2090/0xbe)do k-= k k=(4140689)while(1130/0xe2)>=O do k-= k k=(852222)while((176-0x82)+-#[[MoonsecV2 deobfuscator 2020 free 100 percent]])>=O do k-= k k=(1095120)while(0x29-41)>=O do k-= k h[o[P]]=_[o[d]];break;end while 432==(k)/((0x1443-2652))do k=(13852188)while O>((108+-0x59)+-#'nico der hurensohn')do k-= k local b=h[o[w]];if not b then l=l+f;else h[o[M]]=b;l=o[L];end;break end while 3514==(k)/((-#"Cock and ball tortue"+(0x362b0/56)))do B[o[r]]=h[o[M]];break end;break;end break;end while(k)/((0x4fa-683))==1442 do k=(2521316)while O<=(0x2a3/225)do k-= k local k;h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[p]]=h[o[L]][o[c]];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=h[o[r]];l=l+b;o=e[l];l=o[a];break;end while 1699==(k)/((-77+0x619))do k=(15990632)while O>(95-0x5b)do k-= k _[o[r]]=h[o[K]];break end while(k)/(((0x9497a/153)+-#'warboy hates you'))==4036 do h[o[m]][h[o[d]]]=h[o[c]];break end;break;end break;end break;end while 3629==(k)/((2328-0x4a3))do k=(627907)while((-0x30+((0x5d1e/174)+-#"Reduce meme string slowmode when plsplspls"))+-#[[psx real dupe steal all ur pets no joke]])>=O do k-= k k=(3734284)while O<=(0x2f-41)do k-= k h[o[m]]=#h[o[H]];break;end while(k)/((-#"beliveri12 is gay"+(0x960ff/157)))==958 do k=(980628)while O>(1274/((0xad98/220)+-#"meme strings be like"))do k-= k do return h[o[n]]end break end while(k)/((671+-0x6e))==1748 do h[o[p]][o[H]]=h[o[x]];break end;break;end break;end while 1897==(k)/((0x162+-23))do k=(7798208)while(124+-0x73)>=O do k-= k h[o[M]]=h[o[F]]-h[o[U]];break;end while(k)/((0x1aba-3450))==2299 do k=(242585)while(-#'you cut your pubes with nail clippers'+(7567/((0x8f40/192)+-#"testing this thingy lololollez")))<O do k-= k h[o[P]]=h[o[d]];break end while 1673==(k)/((0x1b3/3))do h[o[M]]=o[a];break end;break;end break;end break;end break;end while(k)/((0x5a1-((909+-0x6b)+-#[[good googly moogly]])))==3511 do k=(4359530)while(0x86-117)>=O do k-= k k=(3730606)while(0x2c-30)>=O do k-= k k=(6385626)while((-0x1e+125)-0x53)>=O do k-= k local f;local p,i;local O;local k;h[o[M]][o[H]]=o[s];l=l+b;o=e[l];h[o[P]]=_[o[a]];l=l+b;o=e[l];h[o[m]][o[L]]=o[c];l=l+b;o=e[l];h[o[n]]=B[o[F]];l=l+b;o=e[l];h[o[K]]=B[o[F]];l=l+b;o=e[l];k=o[K];O=h[o[d]];h[k+1]=O;h[k]=O[o[c]];l=l+b;o=e[l];h[o[m]]=o[a];l=l+b;o=e[l];h[o[M]]=(o[F]~=0);l=l+b;o=e[l];k=o[m]p,i=y(h[k](u(h,k+1,o[r])))D=i+k-1 f=0;for o=k,D do f=f+b;h[o]=p[f];end;l=l+b;o=e[l];k=o[n]h[k]=h[k](u(h,k+b,D))l=l+b;o=e[l];h[o[K]]();break;end while(k)/((4646-0x950))==2823 do k=(9521280)while(0x3e-49)<O do k-= k local O;local k;k=o[p];O=h[o[F]];h[k+1]=O;h[k]=O[o[t]];l=l+b;o=e[l];h[o[P]]=o[a];l=l+b;o=e[l];k=o[n]h[k]=h[k](u(h,k+b,o[F]))l=l+b;o=e[l];h[o[m]]=B[o[H]];l=l+b;o=e[l];h[o[p]]=h[o[d]][o[c]];l=l+b;o=e[l];h[o[K]]=o[F];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])break end while 3480==(k)/((350208/0x80))do do return h[o[p]]end break end;break;end break;end while 3322==(k)/((2291-0x490))do k=(7589853)while O<=(0x690/112)do k-= k h[o[m]]=(o[r]~=0);break;end while(k)/(((813195/0xff)+-#'impulse 2022'))==2389 do k=(53390)while(0x75-101)<O do k-= k B[o[r]]=h[o[M]];l=l+b;o=e[l];h[o[p]]={};l=l+b;o=e[l];h[o[p]]={};l=l+b;o=e[l];B[o[r]]=h[o[m]];l=l+b;o=e[l];h[o[M]]=B[o[a]];l=l+b;o=e[l];if(h[o[m]]~=o[t])then l=l+f;else l=o[H];end;break end while(k)/((113+-0x4b))==1405 do local b=o[p];local e=h[b]local k=h[b+2];if(k>0)then if(e>h[b+1])then l=o[L];else h[b+3]=e;end elseif(e<h[b+1])then l=o[F];else h[b+3]=e;end break end;break;end break;end break;end while(k)/((373674/0xf6))==2870 do k=(7592228)while(-#'cilertedcool'+(0x9f+-127))>=O do k-= k k=(2359664)while O<=(-#[[nigglet]]+(4525/(0x91a6/206)))do k-= k local M=S[o[H]];local O;local b={};O=I({},{__index=function(l,o)local o=b[o];return o[1][o[2]];end,__newindex=function(h,o,l)local o=b[o]o[1][o[2]]=l;end;});for k=1,o[c]do l=l+f;local o=e[l];if o[(-#"MoonsecV2 deobfuscator 2020 free 100 percent"+(10980/0xf4))]==11 then b[k-1]={h,o[L]};else b[k-1]={_,o[d]};end;N[#N+1]=b;end;h[o[m]]=C(M,O,B);break;end while(k)/(((-0x6c+2275)+-#[[testpsx dupe no scam legit 2022 free no virus]]))==1112 do k=(4892400)while(-#[[W4rboy was here]]+(0xa1-127))<O do k-= k local l=o[p]h[l](u(h,l+f,o[d]))break end while 2416==(k)/((-#'big niggers sucking cock'+(-0x78+2169)))do local O;local k;h[o[m]][o[a]]=h[o[c]];l=l+b;o=e[l];k=o[n];O=h[o[r]];h[k+1]=O;h[k]=O[o[w]];l=l+b;o=e[l];h[o[K]]=o[a];l=l+b;o=e[l];h[o[P]]={};l=l+b;o=e[l];h[o[p]][o[H]]=o[w];l=l+b;o=e[l];h[o[p]][o[a]]=o[s];l=l+b;o=e[l];h[o[m]][o[d]]=o[c];l=l+b;o=e[l];h[o[M]][o[L]]=h[o[x]];l=l+b;o=e[l];h[o[K]][o[H]]=o[w];l=l+b;o=e[l];k=o[n]h[k](u(h,k+f,o[H]))break end;break;end break;end while(k)/((2848+-0x74))==2779 do k=(2018616)while O<=(-#[[Reduce meme string slowmode when plsplspls]]+(13356/0xd4))do k-= k local o=o[M]h[o]=h[o](u(h,o+b,D))break;end while(k)/((-#'nigglet'+(0x3c228/88)))==723 do k=(3934455)while((200-0x88)+-#[[Reduce meme string slowmode when plsplspls]])<O do k-= k local b=o[n];local l=h[o[a]];h[b+1]=l;h[b]=l[o[w]];break end while(k)/((0xf65e/34))==2121 do local O;local f;local k;h[o[n]]=o[r];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];h[o[P]]=#h[o[H]];l=l+b;o=e[l];h[o[P]]=o[F];l=l+b;o=e[l];k=o[m];f=h[k]O=h[k+2];if(O>0)then if(f>h[k+1])then l=o[F];else h[k+3]=f;end elseif(f<h[k+1])then l=o[F];else h[k+3]=f;end break end;break;end break;end break;end break;end break;end while 833==(k)/((0x5feb9/159))do k=(2780108)while(-0x14+55)>=O do k-= k k=(3035392)while O<=((0x6e-75)+-#[[weezer]])do k-= k k=(935410)while O<=(0x1214/178)do k-= k k=(5847608)while(55+-0x1f)>=O do k-= k local o=o[M]h[o]=h[o](u(h,o+b,D))break;end while 1534==(k)/((0xf60+-124))do k=(807070)while O>(2900/0x74)do k-= k h[o[m]]=h[o[d]]-h[o[U]];break end while 3190==(k)/((-#'use luraph if want lost money'+(0x272-344)))do h[o[K]]={};break end;break;end break;end while(k)/((3338-0x6c0))==581 do k=(7987926)while O<=(0x60+-69)do k-= k local O=S[o[F]];local k;local b={};k=I({},{__index=function(l,o)local o=b[o];return o[1][o[2]];end,__newindex=function(h,o,l)local o=b[o]o[1][o[2]]=l;end;});for k=1,o[w]do l=l+f;local o=e[l];if o[(0xd9/217)]==11 then b[k-1]={h,o[F]};else b[k-1]={_,o[a]};end;N[#N+1]=b;end;h[o[M]]=C(O,k,B);break;end while(k)/((-#"Smokey BArbecue BAcon BUford from checkers mm"+(362934/0x63)))==2206 do k=(4544100)while O>(-#"mama mo"+((-#"i shoved a whole bag of jellibeans up my ass"+(22487/0x71))-0x78))do k-= k if h[o[M]]then l=l+b;else l=o[L];end;break end while(k)/((5735-0xb72))==1620 do local b=o[L];local l=h[b]for o=b+1,o[t]do l=l..h[o];end;h[o[P]]=l;break end;break;end break;end break;end while(k)/((206752/0x5b))==1336 do k=(408975)while O<=((60+-0x13)+-#"Deezbutts")do k-= k k=(308259)while(0x61+((-6493/0x97)+-#"keno 0347 is a nerdy fag"))>=O do k-= k do return end;break;end while(k)/((0xcde-1663))==189 do k=(784380)while O>((0x9b-(290-0xb2))+-#"cilertedcool")do k-= k h[o[n]][o[a]]=o[t];break end while(k)/(((-25+0x1cc4b)/0xe7))==1538 do h[o[M]]=h[o[L]][o[c]];break end;break;end break;end while(k)/(((0x716-937)+-#[[atakan der nigga]]))==475 do k=(4038041)while((215/0x5)+-#"bigchungus")>=O do k-= k local o={h,o};o[f][o[i][n]]=o[b][o[i][c]]+o[f][o[i][a]];break;end while 3583==(k)/((0x92b-1220))do k=(4027707)while O>(-0x4f+113)do k-= k local b=o[p];local l=h[o[L]];h[b+1]=l;h[b]=l[o[t]];break end while 1263==(k)/((-#[[Nicuse is good at sucking dick]]+(-88+(3425+-0x76))))do if(h[o[m]]==h[o[w]])then l=l+f;else l=o[H];end;break end;break;end break;end break;end break;end while(k)/(((0x197e-3276)+-#[[weezer]]))==857 do k=(7042236)while(-#"0nly segc"+(10400/0xd0))>=O do k-= k k=(243090)while O<=(0x11f6/(-#"jtoh is cringe ngl"+(298-0x9f)))do k-= k k=(534803)while O<=(-63+0x63)do k-= k local l=o[p]h[l]=h[l](u(h,l+b,o[r]))break;end while(k)/((0x199-246))==3281 do k=(2861343)while(((-130+0xe)+0xab)+-#"furries should die")<O do k-= k h[o[p]]=o[L];break end while(k)/(((-0x61+1758)+-#'Hey skid'))==1731 do do return end;break end;break;end break;end while 1314==(k)/((0x1e2-297))do k=(15462616)while(0x99+-114)>=O do k-= k local k;h[o[P]]=B[o[a]];l=l+b;o=e[l];h[o[m]]=h[o[H]][o[t]];l=l+b;o=e[l];h[o[m]]=o[F];l=l+b;o=e[l];h[o[M]]=o[a];l=l+b;o=e[l];h[o[K]]=o[L];l=l+b;o=e[l];k=o[M]h[k]=h[k](u(h,k+b,o[H]))l=l+b;o=e[l];h[o[m]][o[H]]=h[o[c]];l=l+b;o=e[l];h[o[p]][o[a]]=o[U];l=l+b;o=e[l];h[o[M]][o[H]]=o[s];l=l+b;o=e[l];h[o[M]][o[F]]=h[o[t]];l=l+b;o=e[l];h[o[P]]=B[o[H]];l=l+b;o=e[l];h[o[m]]=h[o[a]][o[c]];l=l+b;o=e[l];h[o[p]]=o[r];l=l+b;o=e[l];h[o[P]]=o[a];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];k=o[m]h[k]=h[k](u(h,k+b,o[d]))l=l+b;o=e[l];h[o[K]][o[F]]=h[o[c]];l=l+b;o=e[l];h[o[n]][o[F]]=o[U];l=l+b;o=e[l];h[o[n]]=B[o[a]];l=l+b;o=e[l];h[o[m]]=h[o[a]][o[w]];l=l+b;o=e[l];h[o[p]]=o[a];l=l+b;o=e[l];h[o[p]]=o[L];l=l+b;o=e[l];h[o[p]]=o[r];l=l+b;o=e[l];h[o[K]]=o[H];l=l+b;o=e[l];k=o[p]h[k]=h[k](u(h,k+b,o[F]))l=l+b;o=e[l];h[o[n]][o[r]]=h[o[c]];l=l+b;o=e[l];h[o[M]]=B[o[r]];l=l+b;o=e[l];h[o[p]]=h[o[L]][o[x]];l=l+b;o=e[l];h[o[K]]=o[d];l=l+b;o=e[l];h[o[p]]=o[F];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](u(h,k+b,o[r]))l=l+b;o=e[l];h[o[n]][o[a]]=h[o[w]];l=l+b;o=e[l];h[o[K]]=B[o[L]];l=l+b;o=e[l];h[o[K]]=h[o[d]][o[t]];l=l+b;o=e[l];h[o[K]]=h[o[a]][o[x]];l=l+b;o=e[l];h[o[K]][o[d]]=h[o[U]];l=l+b;o=e[l];h[o[P]]=B[o[a]];l=l+b;o=e[l];h[o[M]]=h[o[H]][o[s]];l=l+b;o=e[l];h[o[M]]=h[o[L]][o[c]];l=l+b;o=e[l];h[o[p]][o[d]]=h[o[U]];l=l+b;o=e[l];h[o[K]][o[H]]=o[t];l=l+b;o=e[l];h[o[P]][o[d]]=o[w];l=l+b;o=e[l];h[o[p]][o[a]]=o[w];l=l+b;o=e[l];h[o[M]][o[a]]=o[x];l=l+b;o=e[l];h[o[K]][o[L]]=h[o[t]];l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[p]]=h[o[r]][o[U]];l=l+b;o=e[l];h[o[p]]=o[d];l=l+b;o=e[l];h[o[M]]=o[d];l=l+b;o=e[l];h[o[P]]=o[L];l=l+b;o=e[l];k=o[m]h[k]=h[k](u(h,k+b,o[r]))l=l+b;o=e[l];h[o[M]][o[L]]=h[o[x]];l=l+b;o=e[l];h[o[m]][o[L]]=o[c];l=l+b;o=e[l];h[o[P]]=B[o[r]];l=l+b;o=e[l];h[o[K]]=h[o[r]][o[t]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];k=o[p]h[k]=h[k](u(h,k+b,o[F]))l=l+b;o=e[l];h[o[P]][o[H]]=h[o[t]];l=l+b;o=e[l];h[o[K]]=B[o[a]];l=l+b;o=e[l];h[o[M]]=h[o[r]][o[c]];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];h[o[n]]=o[r];l=l+b;o=e[l];h[o[n]]=o[d];l=l+b;o=e[l];k=o[M]h[k]=h[k](u(h,k+b,o[L]))l=l+b;o=e[l];h[o[m]][o[d]]=h[o[t]];l=l+b;o=e[l];h[o[P]]=B[o[L]];l=l+b;o=e[l];h[o[P]]=h[o[r]][o[w]];l=l+b;o=e[l];h[o[P]]=h[o[H]][o[w]];l=l+b;o=e[l];h[o[n]][o[r]]=h[o[t]];l=l+b;o=e[l];h[o[n]]=B[o[a]];l=l+b;o=e[l];h[o[M]]=h[o[r]][o[U]];l=l+b;o=e[l];h[o[n]]=h[o[d]][o[t]];l=l+b;o=e[l];h[o[M]][o[L]]=h[o[w]];l=l+b;o=e[l];h[o[K]][o[L]]=o[s];l=l+b;o=e[l];h[o[m]][o[F]]=o[t];l=l+b;o=e[l];h[o[m]][o[H]]=o[c];l=l+b;o=e[l];h[o[n]][o[r]]=o[c];break;end while(k)/((0x3869c/61))==4082 do k=(476370)while(-#[[get good use moonsec]]+(11700/0xc3))<O do k-= k h[o[p]]();break end while 2010==(k)/(((63881/0x7f)-266))do local O;local k;h[o[P]][o[r]]=h[o[x]];l=l+b;o=e[l];k=o[P];O=h[o[r]];h[k+1]=O;h[k]=O[o[U]];l=l+b;o=e[l];h[o[n]]=o[a];l=l+b;o=e[l];h[o[P]]={};l=l+b;o=e[l];h[o[P]][o[F]]=o[w];l=l+b;o=e[l];h[o[p]][o[F]]=o[x];l=l+b;o=e[l];h[o[M]][o[F]]=o[s];l=l+b;o=e[l];h[o[P]][o[a]]=h[o[U]];l=l+b;o=e[l];h[o[m]][o[H]]=o[x];l=l+b;o=e[l];k=o[K]h[k](u(h,k+f,o[d]))l=l+b;o=e[l];h[o[p]]=B[o[d]];l=l+b;o=e[l];h[o[M]]=o[r];l=l+b;o=e[l];k=o[K]h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];k=o[P];O=h[o[H]];h[k+1]=O;h[k]=O[o[w]];l=l+b;o=e[l];h[o[n]]=o[r];l=l+b;o=e[l];k=o[m]h[k]=h[k](u(h,k+b,o[F]))l=l+b;o=e[l];k=o[P];O=h[o[F]];h[k+1]=O;h[k]=O[o[x]];l=l+b;o=e[l];h[o[P]]=o[H];l=l+b;o=e[l];h[o[m]]={};l=l+b;o=e[l];h[o[P]][o[r]]=o[c];l=l+b;o=e[l];h[o[K]][o[d]]=o[U];l=l+b;o=e[l];h[o[p]][o[a]]=o[t];l=l+b;o=e[l];k=o[P]h[k](u(h,k+f,o[F]))l=l+b;o=e[l];h[o[n]]=o[r];l=l+b;o=e[l];B[o[r]]=h[o[K]];l=l+b;o=e[l];h[o[K]]=B[o[L]];l=l+b;o=e[l];h[o[p]]=h[o[F]][o[s]];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[K]]=B[o[F]];l=l+b;o=e[l];h[o[p]]=h[o[H]][o[s]];l=l+b;o=e[l];h[o[p]]=o[d];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[m]]=h[o[r]][o[w]];l=l+b;o=e[l];h[o[p]]=o[d];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[M]]=B[o[r]];l=l+b;o=e[l];h[o[P]]=h[o[L]][o[s]];l=l+b;o=e[l];h[o[M]]=o[H];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[M]]=B[o[F]];l=l+b;o=e[l];h[o[m]]=h[o[H]][o[t]];l=l+b;o=e[l];h[o[M]]=o[L];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[F]];l=l+b;o=e[l];h[o[p]]=h[o[d]][o[t]];l=l+b;o=e[l];h[o[m]]=o[H];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[H]];l=l+b;o=e[l];h[o[M]]=h[o[r]][o[s]];l=l+b;o=e[l];h[o[m]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[F]];l=l+b;o=e[l];h[o[P]]=h[o[L]][o[U]];l=l+b;o=e[l];h[o[m]]=o[H];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[M]]=h[o[r]][o[c]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[L]];l=l+b;o=e[l];h[o[p]]=h[o[d]][o[c]];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[d]];l=l+b;o=e[l];h[o[n]]=h[o[d]][o[x]];l=l+b;o=e[l];h[o[p]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[K]]=B[o[d]];l=l+b;o=e[l];h[o[P]]=h[o[d]][o[s]];l=l+b;o=e[l];h[o[P]]=o[L];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[F]];l=l+b;o=e[l];h[o[P]]=h[o[F]][o[t]];l=l+b;o=e[l];h[o[P]]=o[F];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];h[o[M]]=h[o[L]][o[w]];break end;break;end break;end break;end while(k)/((0x4bd54/122))==2766 do k=(4380250)while O<=(0x1944/147)do k-= k k=(2875876)while O<=(10248/0xf4)do k-= k h[o[P]]=(o[H]~=0);break;end while 2636==(k)/((-48+0x473))do k=(6095061)while O>(0x866/50)do k-= k local o={h,o};o[b][o[i][m]]=o[i][U]+o[i][F];break end while(k)/((0xcd1+-68))==1897 do h[o[P]]=_[o[H]];l=l+b;o=e[l];h[o[M]]=#h[o[a]];l=l+b;o=e[l];_[o[H]]=h[o[p]];l=l+b;o=e[l];h[o[K]]=_[o[L]];l=l+b;o=e[l];h[o[p]]=#h[o[L]];l=l+b;o=e[l];_[o[H]]=h[o[P]];l=l+b;o=e[l];do return end;break end;break;end break;end while 1750==(k)/((0x13d3-2572))do k=(169932)while(0x8e-97)>=O do k-= k local k;h[o[p]]=B[o[a]];l=l+b;o=e[l];h[o[K]]=h[o[F]][o[t]];l=l+b;o=e[l];h[o[P]]=o[a];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[F]];l=l+b;o=e[l];h[o[K]]=h[o[L]][o[U]];l=l+b;o=e[l];h[o[m]]=o[F];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[M]]=h[o[L]][o[x]];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[H]];l=l+b;o=e[l];h[o[K]]=h[o[H]][o[t]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[F]];l=l+b;o=e[l];h[o[P]]=h[o[d]][o[s]];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[M]]=B[o[H]];l=l+b;o=e[l];h[o[n]]=h[o[H]][o[t]];l=l+b;o=e[l];h[o[M]]=o[H];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[F]];l=l+b;o=e[l];h[o[n]]=h[o[r]][o[x]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[H]];l=l+b;o=e[l];h[o[p]]=h[o[L]][o[t]];l=l+b;o=e[l];h[o[P]]=o[L];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[K]]=B[o[d]];l=l+b;o=e[l];h[o[n]]=h[o[r]][o[U]];l=l+b;o=e[l];h[o[m]]=o[F];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[L]];l=l+b;o=e[l];h[o[p]]=h[o[L]][o[t]];l=l+b;o=e[l];h[o[p]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[M]]=B[o[H]];l=l+b;o=e[l];h[o[P]]=h[o[H]][o[s]];l=l+b;o=e[l];h[o[M]]=o[H];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];h[o[p]]=h[o[F]][o[x]];l=l+b;o=e[l];h[o[m]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[K]]=h[o[a]][o[U]];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[K]]=B[o[F]];l=l+b;o=e[l];h[o[P]]=h[o[H]][o[s]];l=l+b;o=e[l];h[o[n]]=o[a];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[P]]=h[o[r]][o[c]];l=l+b;o=e[l];h[o[p]][o[H]]=h[o[x]];l=l+b;o=e[l];h[o[K]][o[a]]=h[o[x]];l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[n]]=h[o[r]][o[s]];l=l+b;o=e[l];h[o[m]]=o[H];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];h[o[m]]=o[r];l=l+b;o=e[l];k=o[M]h[k]=h[k](u(h,k+b,o[a]))l=l+b;o=e[l];h[o[m]][o[H]]=h[o[w]];l=l+b;o=e[l];h[o[P]]=B[o[F]];l=l+b;o=e[l];h[o[M]]=h[o[d]][o[x]];l=l+b;o=e[l];h[o[n]]=o[a];l=l+b;o=e[l];h[o[M]]=o[a];l=l+b;o=e[l];h[o[p]]=o[H];l=l+b;o=e[l];k=o[n]h[k]=h[k](u(h,k+b,o[F]))l=l+b;o=e[l];h[o[M]][o[r]]=h[o[x]];l=l+b;o=e[l];h[o[m]]=B[o[H]];l=l+b;o=e[l];h[o[K]]=h[o[a]][o[t]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];h[o[m]]=o[r];l=l+b;o=e[l];h[o[K]]=o[r];l=l+b;o=e[l];k=o[K]h[k]=h[k](u(h,k+b,o[L]))break;end while(k)/(((-0x1c+-45)+362))==588 do k=(6056470)while(0x130c/106)<O do k-= k h[o[m]]=h[o[d]][o[t]];break end while(k)/((0x15eb-(0x1685-2945)))==2170 do local b=o[L];local l=h[b]for o=b+1,o[s]do l=l..h[o];end;h[o[K]]=l;break end;break;end break;end break;end break;end break;end break;end while 1197==(k)/((0x8178/24))do k=(7902892)while O<=(-#"Please stop hitting my ribcage with a metal bar"+(0xfd-135))do k-= k k=(7694256)while O<=((0x6875/221)+-#"Help I cant think of a funny and original meme string pls help")do k-= k k=(676512)while O<=(0x601/(93+-0x40))do k-= k k=(507036)while(0x88+-86)>=O do k-= k k=(664839)while O<=(74+-0x1a)do k-= k if(h[o[K]]~=h[o[s]])then l=l+f;else l=o[H];end;break;end while(k)/((0xc9e-(0xd44-1723)))==427 do k=(13248960)while(0xa2-113)<O do k-= k h[o[m]]=B[o[H]];break end while 3730==(k)/((0x1c35-3669))do local l=o[p]h[l]=h[l](u(h,l+b,o[L]))break end;break;end break;end while(k)/((0x16c-240))==4089 do k=(903875)while O<=(-0x3b+110)do k-= k h[o[M]]=_[o[H]];break;end while(k)/(((-90+0x1c041)/111))==875 do k=(1779506)while((0x51+-16)+-#"suck my balls")<O do k-= k local o={h,o};o[f][o[i][M]]=o[b][o[i][x]]+o[f][o[i][L]];break end while 1031==(k)/((158792/0x5c))do local k;local O;h[o[n]]=B[o[a]];l=l+b;o=e[l];h[o[n]]=o[d];l=l+b;o=e[l];h[o[n]]=o[L];l=l+b;o=e[l];O=o[H];k=h[O]for o=O+1,o[s]do k=k..h[o];end;h[o[M]]=k;l=l+b;o=e[l];if not h[o[M]]then l=l+f;else l=o[a];end;break end;break;end break;end break;end while(k)/((-0x6a+394))==2349 do k=(1893570)while O<=(-0x5f+151)do k-= k k=(8167152)while(0xd3-157)>=O do k-= k if(h[o[n]]~=h[o[w]])then l=l+f;else l=o[L];end;break;end while 2676==(k)/((0x17194/31))do k=(9433851)while O>((0x16c-192)+-#'Ok guys relax Theyre just fucking socks Its impossible for socks to turn me gay My heterosexuality will be fine dudes')do k-= k B[o[a]]=h[o[K]];break end while(k)/((5979-0xbd6))==3199 do local o=o[m]h[o]=h[o](h[o+f])break end;break;end break;end while 2982==(k)/((-53+(0x327+-119)))do k=(12367485)while(138-0x51)>=O do k-= k if not h[o[K]]then l=l+f;else l=o[H];end;break;end while(k)/((0xe69+(0x8-52)))==3393 do k=(2106884)while O>(0x2ad2/189)do k-= k local l=o[K]local e,o=y(h[l](u(h,l+1,o[L])))D=o+l-1 local o=0;for l=l,D do o=o+b;h[l]=e[o];end;break end while 1612==(k)/((-#[[Gay porn]]+(0x4ff0b/(335+-0x56))))do h[o[P]]=C(S[o[L]],nil,B);break end;break;end break;end break;end break;end while 3063==(k)/((5118-0xa2e))do k=(4274270)while O<=(-83+(218+-0x46))do k-= k k=(4560976)while(-#'i bought a boost for this string'+(0xc3+-101))>=O do k-= k k=(5107093)while((0x158-230)+-#[[me when they are is have the me when are is do me when]])>=O do k-= k h[o[n]]=C(S[o[L]],nil,B);break;end while 3407==(k)/(((0x180d-3135)-0x5f3))do k=(5356288)while O>((0x18c0/88)+-#'monkey mode')do k-= k local b=o[M];local k=h[b+2];local e=h[b]+k;h[b]=e;if(k>0)then if(e<=h[b+1])then l=o[F];h[b+3]=e;end elseif(e>=h[b+1])then l=o[H];h[b+3]=e;end break end while(k)/((-66+0x59e))==3904 do if not h[o[P]]then l=l+f;else l=o[a];end;break end;break;end break;end while 3088==(k)/((-#[[mf stfu]]+(0x302fc/133)))do k=(3579156)while((0xd5-137)+-#"i love minors")>=O do k-= k local l=o[n]h[l](u(h,l+f,o[a]))break;end while 4058==(k)/((-#"nicowashere"+(0x3ac+-47)))do k=(174286)while(-#[[what size is beliveri12s dick]]+(0x12a-205))<O do k-= k h[o[m]]=#h[o[H]];break end while 1477==(k)/((0xc6+-80))do local b=o[p];local k=h[b+2];local e=h[b]+k;h[b]=e;if(k>0)then if(e<=h[b+1])then l=o[L];h[b+3]=e;end elseif(e>=h[b+1])then l=o[d];h[b+3]=e;end break end;break;end break;end break;end while(k)/((240240/0xa8))==2989 do k=(2879570)while((0xb5-102)+-#[[panzerfaust]])>=O do k-= k k=(2070718)while O<=(0x1734/90)do k-= k if(h[o[m]]~=o[x])then l=l+f;else l=o[F];end;break;end while 949==(k)/(((466683/0xd5)+-#[[ambatakum]]))do k=(8090330)while O>(0xb6-115)do k-= k local b=o[M];local e=h[b]local k=h[b+2];if(k>0)then if(e>h[b+1])then l=o[L];else h[b+3]=e;end elseif(e<h[b+1])then l=o[r];else h[b+3]=e;end break end while(k)/((3163+-0x44))==2614 do h[o[M]]=h[o[L]]%o[U];break end;break;end break;end while 3814==(k)/((0x2334d/191))do k=(7246590)while(177-0x6c)>=O do k-= k h[o[n]]={};break;end while(k)/(((6652-0xd29)+-#'mald'))==2210 do k=(5357057)while O>(5530/0x4f)do k-= k h[o[K]][o[d]]=o[U];break end while(k)/(((-23086/0xee)+3174))==1741 do local o=o[p]h[o](h[o+f])break end;break;end break;end break;end break;end break;end while 2771==(k)/((-#"i fucked your dad"+(622573/0xd9)))do k=(1814364)while(202-0x77)>=O do k-= k k=(6439056)while((0x10d-180)+-#'my ass hurts')>=O do k-= k k=(5914260)while((17110/0x91)+-#'MoonsecV2 deobfuscator 2020 free 100 percent')>=O do k-= k k=(1570266)while O<=(0xae-102)do k-= k if h[o[P]]then l=l+b;else l=o[a];end;break;end while(k)/((0x21a8/12))==2187 do k=(1601555)while((0x258/6)+-#'goofy ahh uncle productions')<O do k-= k if(h[o[M]]==h[o[w]])then l=l+f;else l=o[H];end;break end while(k)/((3650+-0x33))==445 do local O;local k;h[o[M]]=o[F];l=l+b;o=e[l];k=o[p]h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];k=o[m];O=h[o[d]];h[k+1]=O;h[k]=O[o[x]];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];k=o[K]h[k]=h[k](u(h,k+b,o[L]))l=l+b;o=e[l];h[o[m]]=B[o[L]];l=l+b;o=e[l];h[o[n]]=h[o[a]][o[s]];l=l+b;o=e[l];h[o[p]]=o[d];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])break end;break;end break;end while(k)/((-#[[MoonsecV2 deobfuscator 2020 free 100 percent]]+(4128-0x838)))==2987 do k=(1746223)while O<=(1800/((149+-0x6d)+-#'Fucking Retarted'))do k-= k local o=o[P]h[o](h[o+f])break;end while 1741==(k)/((0x7d60/32))do k=(662890)while O>(-#"what size is beliveri12s dick"+(185+-0x50))do k-= k h[o[K]]=h[o[F]][h[o[x]]];break end while(k)/((183502/0xd1))==755 do local o={h,o};o[b][o[i][M]]=o[i][c]+o[i][F];break end;break;end break;end break;end while 3642==(k)/((0xe3e8/33))do k=(3113264)while O<=(197+-0x75)do k-= k k=(3426854)while(0x1074/54)>=O do k-= k _[o[a]]=h[o[P]];break;end while 2087==(k)/((0x27afe/99))do k=(2411138)while O>((-#'Luraph v13 has been released changed absolutely fucking nothing'+(12042+-0x32))/151)do k-= k local O;local k;h[o[p]]=(o[H]~=0);l=l+b;o=e[l];h[o[n]]=h[o[H]];l=l+b;o=e[l];h[o[P]]=B[o[a]];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];O=h[o[U]];if not O then l=l+f;else h[o[K]]=O;l=o[a];end;break end while 593==(k)/((0x100b+-41))do h[o[K]]=(o[r]~=0);l=l+f;break end;break;end break;end while 1232==(k)/((5076-(5133-0xa18)))do k=(319517)while O<=(0x1f53/99)do k-= k local x;local O;local r;local k;h[o[n]]=B[o[H]];l=l+b;o=e[l];h[o[m]]=h[o[L]][o[w]];l=l+b;o=e[l];k=o[K];r=h[o[d]];h[k+1]=r;h[k]=r[o[t]];l=l+b;o=e[l];h[o[p]]=h[o[a]];l=l+b;o=e[l];h[o[m]]=h[o[H]];l=l+b;o=e[l];k=o[P]h[k]=h[k](u(h,k+b,o[a]))l=l+b;o=e[l];k=o[m];r=h[o[H]];h[k+1]=r;h[k]=r[o[U]];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];O={h,o};O[f][O[i][m]]=O[b][O[i][s]]+O[f][O[i][d]];l=l+b;o=e[l];h[o[K]]=h[o[F]]%o[c];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];r=o[H];x=h[r]for o=r+1,o[t]do x=x..h[o];end;h[o[M]]=x;l=l+b;o=e[l];O={h,o};O[f][O[i][M]]=O[b][O[i][c]]+O[f][O[i][H]];l=l+b;o=e[l];h[o[K]]=h[o[L]]%o[c];break;end while(k)/((146172/0x9c))==341 do k=(379631)while((-68+0x9d)+-#[[algebra]])<O do k-= k l=o[d];break end while 281==(k)/(((1382+-0x14)+-#[[monkey mode]]))do h[o[p]]=h[o[F]];break end;break;end break;end break;end break;end while(k)/((-65+0xe75))==499 do k=(2378674)while O<=(200-0x6f)do k-= k k=(854360)while O<=(-#"waste of sperm"+(0x35e8/138))do k-= k k=(3162972)while O<=(-0x17+(126+-0x13))do k-= k h[o[m]][o[L]]=h[o[w]];break;end while 1788==(k)/(((0x46c1a/162)+-#[[meme strings be like]]))do k=(1506752)while O>(-#'impulse was here omg'+(236-0x83))do k-= k local b=h[o[s]];if not b then l=l+f;else h[o[K]]=b;l=o[a];end;break end while(k)/(((-40+0x378)+-#[[get some bitches]]))==1811 do l=o[L];break end;break;end break;end while 3445==(k)/((0x81d0/134))do k=(3579904)while O<=((0x130443/191)/75)do k-= k h[o[K]]=B[o[L]];break;end while(k)/((-#'papier der afghaner wurde von nice dem bombenleger gefickt'+(1372+-0x62)))==2944 do k=(7522840)while(201-0x71)<O do k-= k h[o[M]]=h[o[L]]%o[U];break end while 2405==(k)/((-#[[0nly 1337 smashed ur wap]]+(0x18fd-3245)))do h[o[P]]=h[o[r]][h[o[c]]];break end;break;end break;end break;end while(k)/((-#"Crackzzzz"+(3034-0x61b)))==1627 do k=(401210)while(303-0xd3)>=O do k-= k k=(2897874)while(-#[[use luraph if want lost money]]+(-61+0xb4))>=O do k-= k h[o[p]][h[o[d]]]=h[o[x]];break;end while 1899==(k)/((0x24e22/99))do k=(181959)while(112+-0x15)<O do k-= k h[o[m]]();break end while 1389==(k)/((-#[[If no father return milk end]]+(363-0xcc)))do local o=o[P]h[o]=h[o](h[o+f])break end;break;end break;end while 530==(k)/((0xae77/59))do k=(1637856)while((289-0xb1)+-#[[fix vg hub dekudimz]])>=O do k-= k if(h[o[m]]~=o[x])then l=l+f;else l=o[d];end;break;end while(k)/((-#'penis'+(5893-0xba8)))==564 do k=(6709628)while O>(-#"nicuse is nil skull"+(0xccd/29))do k-= k local k;k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[M]]=B[o[d]];l=l+b;o=e[l];h[o[M]]=h[o[a]][o[x]];l=l+b;o=e[l];h[o[M]]=o[F];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[a]];l=l+b;o=e[l];h[o[M]]=h[o[L]][o[c]];l=l+b;o=e[l];h[o[m]]=o[d];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[m]]=h[o[r]][o[U]];l=l+b;o=e[l];h[o[K]]=o[F];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[H]];l=l+b;o=e[l];h[o[P]]=h[o[r]][o[t]];l=l+b;o=e[l];h[o[M]]=o[a];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[d]];l=l+b;o=e[l];h[o[M]]=h[o[H]][o[w]];l=l+b;o=e[l];h[o[K]]=o[r];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[K]]=B[o[r]];l=l+b;o=e[l];h[o[n]]=h[o[F]][o[s]];l=l+b;o=e[l];h[o[n]]=o[F];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[r]];l=l+b;o=e[l];h[o[p]]=h[o[a]][o[c]];l=l+b;o=e[l];h[o[n]]=o[r];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];h[o[p]]=h[o[H]][o[x]];l=l+b;o=e[l];h[o[p]]=o[H];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[F]];l=l+b;o=e[l];h[o[P]]=h[o[d]][o[c]];l=l+b;o=e[l];h[o[P]]=o[r];l=l+b;o=e[l];k=o[P]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[n]]=h[o[d]][o[U]];l=l+b;o=e[l];h[o[K]]=o[r];l=l+b;o=e[l];k=o[m]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[d]];l=l+b;o=e[l];h[o[m]]=h[o[d]][o[c]];l=l+b;o=e[l];h[o[m]]=o[H];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[r]];l=l+b;o=e[l];h[o[n]]=h[o[H]][o[U]];l=l+b;o=e[l];h[o[m]]=o[r];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[m]]=B[o[H]];l=l+b;o=e[l];h[o[M]]=h[o[a]][o[x]];l=l+b;o=e[l];h[o[M]]=o[r];l=l+b;o=e[l];k=o[K]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[M]]=h[o[F]][o[x]];l=l+b;o=e[l];h[o[K]]=o[r];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[F]];l=l+b;o=e[l];h[o[n]]=h[o[d]][o[c]];l=l+b;o=e[l];h[o[n]]=o[a];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[r]];l=l+b;o=e[l];h[o[n]]=h[o[F]][o[c]];l=l+b;o=e[l];h[o[p]]=o[F];l=l+b;o=e[l];k=o[M]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[H]];l=l+b;o=e[l];h[o[K]]=h[o[F]][o[s]];l=l+b;o=e[l];h[o[K]]=o[d];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[P]]=B[o[H]];l=l+b;o=e[l];h[o[p]]=h[o[F]][o[s]];l=l+b;o=e[l];h[o[P]]=o[L];l=l+b;o=e[l];k=o[p]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[p]]=B[o[L]];l=l+b;o=e[l];h[o[p]]=h[o[d]][o[x]];l=l+b;o=e[l];h[o[p]]=o[d];l=l+b;o=e[l];k=o[n]h[k]=h[k](h[k+f])l=l+b;o=e[l];h[o[n]]=B[o[r]];l=l+b;o=e[l];h[o[P]]=h[o[r]][o[x]];l=l+b;o=e[l];h[o[P]]=o[H];break end while 2686==(k)/((-#'meme strings be like'+(0x141e-(-39+0xa6f))))do h[o[K]]=(o[d]~=0);l=l+f;break end;break;end break;end break;end break;end break;end break;end l+= f end;end);end;return C(y(),{},q())()end)_msec({[(0xdf+-25)]='\115\116'..(function(o)return(o and'((297-0xb1)+-#"33 cocks in my mouth")')or'\114\105'or'\120\58'end)(((116+-0x36)-57)==(-18+0x18))..'\110g',[(1544-0x310)]='\108\100'..(function(o)return(o and'((0x2b50/99)+-#\'Lana Rhoades\')')or'\101\120'or'\119\111'end)((0x1a-21)==((847-0x1c9)/65))..'\112',[(-#[[impulse loves moonsex]]+(((0x13c52-40526)+-#'33 cocks in my mouth')/0x98))]=(function(o)return(o and'(154+-0x36)')and'\98\121'or'\100\120'end)((-0x3c+65)==((-3944/0x44)+0x3f))..'\116\101',[(-#{(function()return{','}end)();(function()return{','}end)(),84,'nil'}+315)]='\99'..(function(o)return(o and'(-#\'i shoved a whole bag of jellibeans up my ass\'+(364-0xdc))')and'\90\19\157'or'\104\97'end)((0x82-125)==(630/0xd2))..'\114',[(1172-0x262)]='\116\97'..(function(o)return(o and'(4600/0x2e)')and'\64\113'or'\98\108'end)((0x348/140)==((19440/0xf0)+-#[[function howtofucknicuse print you cant fuck nicuse sorry haha you noooo end]]))..'\101',[(500+-#{{},(function()return{','}end)();(function()return{','}end)()})]=(function(o)return(o and'(-#\'0nly 1337\'+(0xae+-65))')or'\115\117'or'\78\107'end)((0x73-112)==((0x3937/151)+-#'if syn request then print your mom then end and then kill yourself'))..'\98',[(-#[[mf stfu]]+(1777-0x3b0))]='\99\111'..(function(o)return(o and'(-57+(0x6049/157))')and'\110\99'or'\110\105\103\97'end)((146-0x73)==(0x6f+-80))..'\97\116',[(-74+0x2e0)]=(function(o,l)return(o and'(0x96+-50)')and'\48\159\158\188\10'or'\109\97'end)((-#"if syn request then print your mom then end and then kill yourself"+(1704/0x18))==(1392/0xe8))..'\116\104',[(-76+0x57d)]=(function(l,o)return((-#[[0nly 1337]]+((-0x52+176)-0x50))==(-0x73+118)and'\48'..'\195'or l..((not'\20\95\69'and'\90'..'\180'or o)))or'\199\203\95'end),[(2061-0x444)]='\105\110'..(function(o,l)return(o and'(18800/0xbc)')and'\90\115\138\115\15'or'\115\101'end)((0x59-84)==(0x9c-125))..'\114\116',[(0x3e388/246)]='\117\110'..(function(o,l)return(o and'(-#\'Shrimps was here\'+((24528/0xa8)+-30))')or'\112\97'or'\20\38\154'end)((-#'MSC 793z487nhvcgsdfgsudfza9889jgvz56gz56z547684z5g54z948g56z74j56475jzg645z6456 oh wait'+(0xf2-150))==(-63+0x5e))..'\99\107',[(0x920-1212)]='\115\101'..(function(o)return(o and'(-#\'impulse 2022\'+(-111+0xdf))')and'\110\112\99\104'or'\108\101'end)((1230/0xf6)==((85+-0x25)+-#'i fucked your dad'))..'\99\116',[((0x11a68/(62+-#{'nil';'}';23;'nil',(function()return{','}end)(),(function()return#{('BMMFmH'):find("\77")}>0 and 1 or 0 end)}))+-#'big niggers sucking cock')]='\116\111\110'..(function(o,l)return(o and'(0xd8+-116)')and'\117\109\98'or'\100\97\120\122'end)((-0x19+(6060/0xca))==(-24+(0x60-67)))..'\101\114'},{[((-0x6f+132)+-#'Ur mom')]=((getfenv))},((getfenv))()) end)()
+message.Text = "Loading.." 
 
+wait(1) 
 
+message.Text = "Loading..." 
+
+wait(1) 
+
+message.Text = "Loading" 
+
+wait(1) 
+
+message.Text = "Loading." 
+
+wait(1) 
+
+message.Text = "Loading.." 
+
+wait(1) 
+
+message.Text = "Loading..." 
+
+wait(1) 
+
+message.Text = "Loading" 
+
+wait(1) 
+
+message.Text = "Loading." 
+
+wait(1) 
+
+message.Text = "Loading.." 
+
+wait(1.8) 
+
+message:Destroy()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/vff1bQ9F"))()
+local Window = Library.CreateLib("Fire Hub [2]", "BloodTheme")
+
+local Tab1 = Window:NewTab("SwordMan Simulator")
+local Tab1Section = Tab1:NewSection("SwordMan Simulator")
+
+local Tab2 = Window:NewTab("Eating Simulator")
+local Tab2Section = Tab2:NewSection("Eating Simulator")
+
+local Tab3 = Window:NewTab("Anime Sword Simulator")
+local Tab3Section = Tab3:NewSection("Anime Sword Simulator")
+
+local Tab5 = Window:NewTab("Step Counter")
+local Tab5Section = Tab5:NewSection(" Step Counter")
+
+Tab1Section:NewToggle("Kill Farm", "", function(state)
+    if state then
+while true do wait(1)
+    getgenv().autokill = true
+ 
+if getgenv().autokill then
+task.spawn(function()
+while getgenv().autokill do
+for I, V in pairs(game.Players:GetChildren()) do
+local NewPlayerCFrame = V.Character.HumanoidRootPart.CFrame
+ 
+if workspace[V.Name]:FindFirstChild("ForceField") then
+print("User is in the safe zone/has a force field.")
+else
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = NewPlayerCFrame  
+wait(0.5)
+getgenv().autokill = false
+end
+end
+end
+end)
+end
+end
+    else
+game:GetService'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId,game:GetService'Players'.LocalPlayer)
+    end
+end)
+
+Tab1Section:NewButton("Claim All Chest", "", function()
+local old = game.Players.LocalPlayer.Character:getChildren()
+for i=1,#old do
+if old[i].Name == "HumanoidRootPart" then
+lastPos = old[i].CFrame
+end
+end
+wait()
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(657, 556, -203)})
+tween:Play()
+wait(5)
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(706, 554, -753)})
+tween:Play()
+wait(5)
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(1305, 555, -68)})
+tween:Play()
+wait(5)
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(1, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(1323, 554, -51)})
+tween:Play()
+wait(1)
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(382, 555, 953)})
+tween:Play()
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(-212, 556, 242)})
+tween:Play()
+wait(5)
+tweenService, tweenInfo = game:GetService("TweenService"), TweenInfo.new(4, Enum.EasingStyle.Linear)
+tween = tweenService:Create(game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart, tweenInfo, {CFrame = CFrame.new(432, 555, 960)})
+tween:Play()
+wait(5)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = lastPos
+end)
+
+Tab1Section:NewButton("Auto Click", "", function()
+local range = 1000
+
+local player = game:GetService("Players").LocalPlayer
+
+game:GetService("RunService").RenderStepped:Connect(function()
+    local p = game.Players:GetPlayers()
+    for i = 2, #p do local v = p[i].Character
+        if v and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and v:FindFirstChild("HumanoidRootPart") and player:DistanceFromCharacter(v.HumanoidRootPart.Position) <= range then
+            local tool = player.Character and player.Character:FindFirstChildOfClass("Tool")
+            if tool and tool:FindFirstChild("Handle") then
+                tool:Activate()
+                for i,v in next, v:GetChildren() do
+                    if v:IsA("BasePart") then
+                        firetouchinterest(tool.Handle,v,0)
+                        firetouchinterest(tool.Handle,v,1)
+                    end
+                end
+            end
+        end
+    end
+end)
+end)
+
+local Tab1Section = Tab1:NewSection("Teleport")
+
+Tab1Section:NewButton("Artic Island", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(869, 553, 47)
+end)
+
+Tab1Section:NewButton("King Territory", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(545, 570, 211)
+end)
+
+Tab1Section:NewButton("Marine Island", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(511, 553, -349)
+end)
+
+Tab2Section:NewToggle("Auto Sell", "", function(state)
+    if state then
+local range = 1000
+
+local player = game:GetService("Players").LocalPlayer
+
+game:GetService("RunService").RenderStepped:Connect(function()
+    local p = game.Players:GetPlayers()
+    for i = 2, #p do local v = p[i].Character
+        if v and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 and v:FindFirstChild("HumanoidRootPart") and player:DistanceFromCharacter(v.HumanoidRootPart.Position) <= range then
+            local tool = player.Character and player.Character:FindFirstChildOfClass("Tool")
+            if tool and tool:FindFirstChild("Handle") then
+                tool:Activate()
+                for i,v in next, v:GetChildren() do
+                    if v:IsA("BasePart") then
+                        firetouchinterest(tool.Handle,v,0)
+                        firetouchinterest(tool.Handle,v,1)
+                    end
+                end
+            end
+        end
+    end
+end)
+    else
+--active loop
+getgenv().autosell = true
+ 
+if getgenv().autosell then
+task.spawn(function()
+while getgenv().autosell do
+for I, V in pairs(game.Players:GetChildren()) do
+--Save ps
+local old = game.Players.LocalPlayer.Character:getChildren()
+for i=1,#old do
+if old[i].Name == "HumanoidRootPart" then
+lastPos = old[i].CFrame
+end
+end
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(-66, 10, 115)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = lastPos
+wait(10)
+end
+end
+end)
+end
+    end
+end)
+
+Tab1Section:NewToggle("Auto Sell", "", function(state)
+    if state then
+--active loop
+getgenv().autosell = true
+ 
+if getgenv().autosell then
+task.spawn(function()
+while getgenv().autosell do
+for I, V in pairs(game.Players:GetChildren()) do
+--Save ps
+local old = game.Players.LocalPlayer.Character:getChildren()
+for i=1,#old do
+if old[i].Name == "HumanoidRootPart" then
+lastPos = old[i].CFrame
+end
+end
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(-66, 10, 115)
+wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = lastPos
+wait(10)
+end
+end
+end)
+end
+    else
+getgenv().autosell = false
+    end
+end)
+
+local Tab2Section = Tab2:NewSection("Teleport")
+
+Tab2Section:NewButton("Candy Island", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(-348, 7042, 803)
+end)
+
+Tab2Section:NewButton("Soda Island Island", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(-121, 2062, 350)
+end)
+
+Tab2Section:NewButton("Shop", "", function()
+game.Players.LocalPlayer.Character.Humanoid.RootPart.CFrame = CFrame.new(-142, 11, 120)
+end)
+
+Tab3Section:NewToggle("Auto Click", "", function(state)
+    if state then
+-----auto Tap
+getgenv().autotap = true
+while getgenv().autotap == true do
+   task.wait()
+local args = {
+   [1] = {}
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("combat attack"):FireServer(unpack(args))
+end
+    else
+getgenv().autotraining = false
+    end
+end)
+
+Tab3Section:NewToggle("Auto Rebrith", "", function(state)
+    if state then
+getgenv().autorebirth = true -- change to false to stop
+while getgenv().autorebirth == true do
+   task.wait()
+local args = {
+   [1] = {
+       [1] = 1
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events.rebirth:FireServer(unpack(args))
+end
+    else
+getgenv().autorebirth = false
+    end
+end)
+
+Tab3Section:NewToggle("Auto Train", "", function(state)
+    if state then
+getgenv().autotraining = true
+while getgenv().autotraining == true do
+   task.wait()
+local args = {
+   [1] = {
+       [1] = workspace.__MAP.Workouts.Training
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events.training:InvokeServer(unpack(args))
+end
+    else
+
+    end
+end)
+
+Tab3Section:NewButton("Redeem All Codes", "", function()
+------Redeem All Codes
+local args = {
+   [1] = {
+       [1] = "levelup"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "energym"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "awaitseason"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "gmarket"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "???"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "clashzone_fc"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "gseller"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+task.wait(1)
+local args = {
+   [1] = {
+       [1] = "release"
+   }
+}
+
+game:GetService("ReplicatedStorage").Assets.Events:FindFirstChild("redeem twitter code"):InvokeServer(unpack(args))
+end)
+
+Tab5Section:NewToggle("Auto Rebirth", "", function(state)
+    if state then
+getgenv().autoRb = true
+while getgenv().autoRb == true do
+local args = {
+[1] = "rebirthrequest"
+}
+game:GetService("ReplicatedStorage").rebirthrequest:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv()autoRb = false
+    end
+end)
+
+Tab5Section:NewToggle("Auto Step", "", function(state)
+    if state then
+getgenv().autostep = true
+while getgenv().autostep == true do
+local args = {
+[1] = "stepclickrequest"
+}
+game:GetService("ReplicatedStorage").stepclickrequest:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autostep = false
+    end
+end)
+
+Tab5Section:NewToggle("Auto Sell", "", function(state)
+    if state then
+getgenv().autoSell = true
+while getgenv().autoSell == true do
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "SellArea" then
+         	child.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		end
+  	end
+wait()
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "SellArea" then
+         	child.CFrame = CFrame.new(-65, 1, 66)
+         	wait(10)
+		end
+  	end
+end
+    else
+getgenv().autoSell = false
+    end
+end)
+
+Tab5Section:NewToggle("Auto Get Piece", "", function(state)
+    if state then
+getgenv().autoPiece = true
+while getgenv().autoPiece == true do
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "5piece" then
+         	child.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		end
+  	end
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "10piece" then
+         	child.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		end
+  	end
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "20piece" then
+         	child.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		end
+  	end
+local children = game.Workspace:GetChildren()
+	for _, child in pairs(children) do
+  		for _, child in pairs(child:GetChildren()) do
+       		table.insert(children, child)
+  		 end
+  		 if child:IsA("BasePart") and child.Name == "50piece" then
+         	child.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+		end
+  	end
+wait(5)
+end
+    else
+getgenv().autoPiece = false
+    end
+end)
+
+Tab5Section:NewToggle("Auto Upgrade Step", "", function(state)
+    if state then
+getgenv().autoUpg = true
+while getgenv().autoUpg == true do
+local args = {
+[1] = "upgrademysteps"
+}
+game:GetService("ReplicatedStorage").upgrademysteps:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autoUpg = false
+    end
+end)
+
+Tab5Section:NewToggle("Auto Upgrade Max", "", function(state)
+    if state then
+getgenv().autoUpgm = true
+while getgenv().autoUpgm == true do
+local args = {
+[1] = "upgrademymaxsteps"
+}
+game:GetService("ReplicatedStorage").upgrademymaxsteps:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autoUpgm = false
+    end
+end)
+
+local Tab4 = Window:NewTab("Nen Fighting Simulator")
+local Tab4Section = Tab4:NewSection("Nen Fighting Simulator")
+
+local Tab6 = Window:NewTab("Tower Of Hell")
+local Tab6Section = Tab6:NewSection("Tower Of Hell")
+
+local Tab7 = Window:NewTab("Prison Life")
+local Tab7Section = Tab7:NewSection("Prison Life")
+
+local Tab8 = Window:NewTab("Gym Training")
+local Tab8Section = Tab8:NewSection("Gym Training")
+
+local Tab9 = Window:NewTab("Eating Simulator")
+local Tab9Section = Tab9:NewSection("Eating Simulator")
+
+local Tab10 = Window:NewTab("Other Gui")
+local Tab10Section = Tab10:NewSection("Credits In Fire Hub [3]")
+
+Tab4Section:NewToggle("Auto Strenght", "", function(state)
+    if state then
+------Auto Strength
+getgenv().autostr = true
+while getgenv().autostr == true do
+local args = {
+[1] = "str"
+}
+game:GetService("ReplicatedStorage").Remotes.train:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autostr = false
+    end
+end)
+
+Tab4Section:NewToggle("Auto Agility", "", function(state)
+    if state then
+------Auto Agility
+getgenv().autoagi = true
+while getgenv().autoagi == true do
+local args = {
+[1] = "agi"
+}
+game:GetService("ReplicatedStorage").Remotes.train:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autoagi = false
+    end
+end)
+
+Tab4Section:NewToggle("Auto Nen", "", function(state)
+    if state then
+-----Auto Nen
+getgenv().autonen = true
+while getgenv().autonen == true do
+local args = {
+[1] = "nen"
+}
+game:GetService("ReplicatedStorage").Remotes.train:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autonen = false
+    end
+end)
+
+Tab4Section:NewToggle("Auto Durability", "", function(state)
+    if state then
+------Auto Durability
+getgenv().autodura = true
+while getgenv().autodura == true do
+local args = {
+[1] = "dur"
+}
+game:GetService("ReplicatedStorage").Remotes.train:FireServer(unpack(args))
+wait(0.1)
+end
+    else
+getgenv().autodura = false
+    end
+end)
+
+Tab6Section:NewToggle("Auto Farm 1", "", function(state)
+    if state then
+while true do wait(0.1)
+local endzone = game.Workspace.tower.sections.finish.FinishGlow.CFrame
+ 
+    local player = game.Players.LocalPlayer.Character
+    player.HumanoidRootPart.CFrame = endzone
+wait(1)
+end
+    else
+game:GetService'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId,game:GetService'Players'.LocalPlayer)
+    end
+end)
+
+Tab6Section:NewButton("Get Tool", "", function()
+    for _,e in pairs(game.Players.LocalPlayer.Backpack:GetDescendants()) do
+        if e:IsA("Tool") then
+        e:Destroy()
+        end
+        end
+        wait() 
+        for _,v in pairs(game.ReplicatedStorage.Gear:GetDescendants()) do
+        if v:IsA("Tool") then
+        local CloneThings = v:Clone()
+        wait()
+        CloneThings.Parent = game.Players.LocalPlayer.Backpack
+ 
+        end
+        end
+end)
+
+Tab6Section:NewButton("God Mode", "", function()
+for i,v in pairs(game:GetService("Workspace").tower:GetDescendants()) do
+        if v:IsA("BoolValue") and v.Name == "kills" then
+            v.Parent:Destroy()
+        end
+    end
+end)
+
+local Tab7Section = Tab7:NewSection("Guns")
+
+Tab7Section:NewDropdown("Give Gun {M4A1 Need Gamepass}", "Gives  Gun", {"M9", "Remington 870", "AK-47", "M4A1"}, function(v)
+   local A_1 = game:GetService("Workspace")["Prison_ITEMS"].giver[v].ITEMPICKUP
+   local Event = game:GetService("Workspace").Remote.ItemHandler
+   Event:InvokeServer(A_1)
+end)
+
+Tab7Section:NewDropdown("Gun Mod", "Makes the gun op", {"M9", "Remington 870", "AK-47"}, function(v)
+      local module = nil
+      if game:GetService("Players").LocalPlayer.Backpack:FindFirstChild(v) then
+          module = require(game:GetService("Players").LocalPlayer.Backpack[v].GunStates)
+      elseif game:GetService("Players").LocalPlayer.Character:FindFirstChild(v) then
+          module = require(game:GetService("Players").LocalPlayer.Character[v].GunStates)
+      end
+      if module ~= nil then
+          module["MaxAmmo"] = math.huge
+          module["CurrentAmmo"] = math.huge
+          module["StoredAmmo"] = math.huge
+          module["FireRate"] = 0.000001
+          module["Spread"] = 0
+          module["Range"] = math.huge
+          module["Bullets"] = 10
+          module["ReloadTime"] = 0.000001
+          module["AutoFire"] = true
+     end
+end)
+
+local Tab7Section = Tab7:NewSection("Teleports")
+
+Tab7Section:NewButton("Outside Of Outside Prison", "Teleports You outside of the prison!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(451.6684265136719, 98.0399169921875, 2216.338134765625)
+end)
+            
+Tab7Section:NewButton("Cafeteria", "Teleports you to the Cafeteria!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(918.994873046875, 99.98993682861328, 2325.73095703125)
+end)
+
+Tab7Section:NewButton("Prison Yard", "Teleports You to the Prison Yard", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(736.4671630859375, 97.99992370605469, 2517.583740234375)
+end)
+            
+Tab7Section:NewButton("Kitchen", "Teleports You to the Kitchen!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(906.641845703125, 99.98993682861328, 2237.67333984375)
+end)
+            
+Tab7Section:NewButton("Prison Cells", "Teleports You to the Prison Cells!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(919.5551147460938, 99.98998260498047, 2441.700927734375)
+end)
+            
+Tab7Section:NewButton("Surveilance Room", "Teleports You to the Surveilance Room!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(795.251953125, 99.98998260498047, 2327.720703125)
+end)
+            
+Tab7Section:NewButton("Break Room", "Teleports You to the Break Room!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(800.0896606445312, 99.98998260498047, 2266.71630859375)
+end)
+            
+Tab7Section:NewButton("Police Armory", "Teleports You to the Police Armory!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(837.2889404296875, 99.98998260498047, 2270.99658203125)
+end)
+
+Tab7Section:NewButton("Police Room", "Teleports to to the Police Room", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(836.5386352539062, 99.98998260498047, 2320.604248046875)
+end)
+            
+Tab7Section:NewButton("Cafeteria", "Teleports you to the Cafeteria!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(918.994873046875, 99.98993682861328, 2325.73095703125)
+end)
+   
+Tab7Section:NewButton("Criminal Base Inside", "Teleports you to the Criminal Base Inside!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-975.8451538085938, 109.32379150390625, 2053.11376953125)
+end)
+
+Tab7Section:NewButton("Prison Cells", "Teleports You to the Prison Cells!", function()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(919.5551147460938, 99.98998260498047, 2441.700927734375)
+end)
+
+Tab8Section:NewToggle("Auto Tap", "", function(state)
+    if state then
+while true do
+local A_1 = "Tapping"
+local Event = game:GetService("ReplicatedStorage").Remotes.Tapping
+Event:FireServer(A_1)
+wait(0)
+end
+    else
+game:GetService'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId,game:GetService'Players'.LocalPlayer)
+    end
+end)
+
+Tab8Section:NewToggle("Auto Training", "", function(state)
+    if state then
+while true do
+local A_2 = game:GetService("Workspace")["__WORKSPACE"]["__Interact"].Training
+local Event = game:GetService("ReplicatedStorage").Remotes.Training
+Event:FireServer(A_1, A_2)
+wait(1)
+end
+    else
+game:GetService'TeleportService':TeleportToPlaceInstance(game.PlaceId,game.JobId,game:GetService'Players'.LocalPlayer)
+    end
+end)
+
+Tab9Section:NewToggle("Auto Eat", "", function(bool)
+_G.d = bool
+while _G.d do wait()
+for i,v in pairs(game.Players.LocalPlayer.Backpack:GetChildren()) do
+      if v.Name == "swing" then
+      game.Players.LocalPlayer.Character.Humanoid:EquipTool(v)
+    end
+    end
+game:GetService'VirtualUser':Button1Down(Vector2.new(1,1))
+end
+end)
+
+Tab9Section:NewToggle("Auto Sell", "", function(bool)
+
+_G.x = bool
+
+while _G.x do wait()
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(16.686979293823, 11.525447845459, -6.6648082733154) -- Change this teleport to island if u want
+wait(2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-25.561155319214, -1.3697438240051, -6.9260401725769)
+wait(2)
+end
+end)
+
+local Tab9Section = Tab9:NewSection("AutoBuy")
+
+Tab9Section:NewToggle("Auto Buy Food", "", function(bool)
+_G.z = bool
+
+while _G.z do wait()
+    -- Auto Buy Food
+
+local args = {
+    [1] = "Bats"
+}
+
+game:GetService("ReplicatedStorage").Knit.Services.ShopService.RE.buyAll:FireServer(unpack(args))
+
+    end
+end)
+
+Tab9Section:NewToggle("Auto Buy DNA", "", function(bool)
+_G.f = bool
+
+while _G.f do wait()
+-- Auto Buy DNA
+
+local args = {
+    [1] = "DNA"
+}
+
+game:GetService("ReplicatedStorage").Knit.Services.ShopService.RE.buyAll:FireServer(unpack(args))
+
+    end
+end)
+
+local Tab9Section = Tab9:NewSection("Egg")
+Selected = ""
+Eggs = {}
+for i,v in pairs(game:GetService("ReplicatedStorage").Eggs:GetChildren()) do
+    table.insert(Eggs,v.Name)
+end
+
+Tab9Section:NewDropdown("Selected Players", "DropdownInf", players, function(dd)
+    Selected = dd
+end)
+
+local Tab9Section = Tab9:NewSection("Misc")
+
+Tab9Section:NewToggle("Anti AFK", "", function(bool)
+    _G.t = bool
+    while _G.t do wait()
+        local bb=game:service'VirtualUser'
+            bb:CaptureController()
+            bb:ClickButton2(Vector2.new())
+    end
+end)
